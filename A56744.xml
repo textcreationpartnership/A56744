@@ -1,0 +1,1121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Dr. P. to the Bishop of R--- in vindication of his sermon on Trinity Sunday.</title>
+            <author>Payne, William, 1650-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 109 KB of XML-encoded text transcribed from 43 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56744</idno>
+            <idno type="STC">Wing P905</idno>
+            <idno type="STC">ESTC R33033</idno>
+            <idno type="EEBO-CITATION">12851460</idno>
+            <idno type="OCLC">ocm 12851460</idno>
+            <idno type="VID">94532</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94532)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1038:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Dr. P. to the Bishop of R--- in vindication of his sermon on Trinity Sunday.</title>
+                  <author>Payne, William, 1650-1696.</author>
+               </titleStmt>
+               <extent>[2], 25, 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Cumberland ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 25: W.P.</note>
+                  <note>Attributed by Wing to William Payne.</note>
+                  <note>The Bishop of R---- is Thomas Sprat--NUC pre-1956 imprints.</note>
+                  <note>23 additional pages in Greek and Latin.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sprat, Thomas, 1635-1713.</term>
+               <term>Church of England --  Controversial literature.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94532:1"/>
+            <pb facs="tcp:94532:1" rendition="simple:additions"/>
+            <p>A LETTER FROM Dr. <hi>P</hi> to the Biſhop of <hi>R</hi>— IN VINDICATION OF HIS SERMON ON <hi>Trinity Sunday.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Cumberland,</hi> at the <hi>Angel</hi> in St. <hi>Paul</hi>'s-Church Yard, 1696</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:94532:2"/>
+            <pb n="1" facs="tcp:94532:2"/>
+            <head>A <hi>LETTER,</hi> &amp;c.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>I Was amazed at ſuch a <hi>Letter</hi> as I re<g ref="char:EOLhyphen"/>ceived from your Lordſhip, and ſome of my Brethren:—I aſſure your Lordſhip, I have as hearty Deſigns to ſerve God, and Religion, and the Church too, as any of you, and aim'd at nothing elſe in my Sermon, but to vindicate Chriſtianity, and our common Faith, from the bold Ob<g ref="char:EOLhyphen"/>jections of ſome modern <hi>Deiſts</hi> and <hi>Soci<g ref="char:EOLhyphen"/>nians,</hi> and particularly from a late Book called, <hi>Chriſtianity not Myſterious.</hi> I perceived at our firſt Meeting, that few of my Bre<g ref="char:EOLhyphen"/>thren then preſent, had troubled them<g ref="char:EOLhyphen"/>ſelves with thoſe things, or with the reading thoſe ſorts of Books, ſo much as my ſelf, and therefore could not ſo well Judge either of the manner how, or the reaſon why, they ſhould be anſwered: When I am ſatisfied that it is for the Honour of God, and the Service of Chri<g ref="char:EOLhyphen"/>ſtianity, as well as for the peace and ſafe<g ref="char:EOLhyphen"/>ty of the Church, not to conſider or anſwer our Adverſaries, but to let them
+<pb n="2" facs="tcp:94532:3"/>write on, and triumph on the ruins of our Chriſtian Faith; I will take up, and live by the wiſe and quiet rules of the Monk, (whether of <hi>Wirtenberg</hi> or <hi>Weſtminſter</hi>) not to trouble my ſelf or the World with impertinent Studying, or Writing, but to go oftner into the Cellar, or the Refecto<g ref="char:EOLhyphen"/>ry, than into Library. But I was unhappi<g ref="char:EOLhyphen"/>ly put upon examining, and managing this Controverſy, as formerly the Popiſh, by my Superiors of the greateſt Note and Eminence; and my preſent Lord of <hi>Can<g ref="char:EOLhyphen"/>terbury</hi> lately deſired me to anſwer the fore mentioned Book of Mr. <hi>Toland</hi>'s, and 'twas againſt this I chiefly directed my Sermon, and that with a deſign to publiſh it. In order to theſe ends I ap<g ref="char:EOLhyphen"/>plied my ſelf to conſult, and read care<g ref="char:EOLhyphen"/>fully the beſt Antiquity, from whence I have taken all my Thoughts and No<g ref="char:EOLhyphen"/>tions about thoſe Matters; and this I ſup<g ref="char:EOLhyphen"/>poſe to be the beſt Method, to take the Controverſy as it lies there, before it fell into the Hands of Nice School men, who perplex and entangle every thing. I am very willing to learn further of my
+<pb n="3" facs="tcp:94532:3"/>more learned Brethren of <hi>Weſtminſter,</hi> but am loath to be injured by the Miſtakes and Miſunderſtandings of any, and in<g ref="char:EOLhyphen"/>deed of One or Two of them, from whence your Lordſhip and others have received ſome miſtaken Accounts, and undue Prejudices againſt my Sermon on <hi>Trinity Sunday;</hi> they, it ſeems, had drawn up a Paper, and were order'd to write to me, and to acquaint me with thoſe things that were objected againſt it, and this was a fair and right Method; and ſince you were not ſatisfied with what we talked, as I thought you had, I de<g ref="char:EOLhyphen"/>ſired this might be purſued; but upon this, your Lordſhip and they thought fit, for ſome ſecret Reaſons, to alter theſe Meaſures at another Meeting, which had been agreed on before; ſo that I cannot have the favour to get a Copy or ſight of that Paper, but am inform'd by thoſe who ſaw it, that 'tis about theſe Three things, The Quotation out of Bi<g ref="char:EOLhyphen"/>ſhop <hi>Pierſon,</hi> the word <hi>Equivocal,</hi> and ſomething about <hi>Specifical</hi> and <hi>Numerical Eſſence;</hi> which latter was never men<g ref="char:EOLhyphen"/>tion'd
+<pb facs="tcp:94532:4"/>
+               <note place="margin">
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.<note place="margin">Theod. Abnca<g ref="char:EOLhyphen"/>ra, <hi>quoted by Biſhop</hi> Pierſon, <hi>and to be found in</hi> Bibli. Patr. Ignat. Epiſt. ad Epheſ.</note>
+                  </p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>Et ſic tenus Deus Pater oſtenditur,<note place="margin">Iren. <hi>L.</hi> 5.</note> qui eſt ſuper omnia, &amp; per omnia, &amp; in omnibus, ſuper omnia quidem Pater, &amp; Ipſe eſt Caput Chriſti.</p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.<note place="margin">Athanaſ. contr. Sabel. Gregal.—ad Adelp.—ad Serap.</note>
+                  </p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.<note place="margin">De Sp. Sancti Baſil. O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 27. contra Sabell. Greg. Naz. O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>at. 29.</note>
+                  </p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.<note place="margin">Epiphan. Hae<g ref="char:EOLhyphen"/>reſ. 57.</note>
+                  </p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.<note place="margin">Euſeb. de Eccl. Theol. <hi>l.</hi> 1. <hi>c.</hi> 11. Ib. Id. <hi>l.</hi> 1. <hi>c.</hi> 17. Id. <hi>l.</hi> 2. <hi>c.</hi> 7.</note>
+                  </p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>Ideo autem dicitur Deus Pater quia ipſe eſt ex quo—<note place="margin">Ambroſ. de dignat. Con. Hu.</note>
+                  </p>
+                  <p>Non enim Patri adimitur quod Deus Unus eſt,<note place="margin">Hilar. de Trin. <hi>c.</hi> 1.</note> quia &amp; Filius Deus ſit, ob id unus Deus quia ex ſe Deus.<note place="margin">Auguſt. de Trin. <hi>l.</hi> 6. <hi>c.</hi> 9.</note>
+                  </p>
+                  <p>—Tanquam hoc inſinuare voluerit, <hi>(Joh. 17.3.</hi> quâ ſolus Pater verus Deus eſt.</p>
+                  <p>
+                     <pb facs="tcp:94532:5"/>—Hinc Juſtino,<note place="margin">Bull. Defenſ. Fid. Nican. <hi>p.</hi> 433.</note> caeteriſq. ſcriptoribus An<g ref="char:EOLhyphen"/>te-Nicaenis ſolenne eſt Deum Patrem <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> appellare nunc Deum abſolute, nunc unum illum Deum, nunc Deum Patrem juxta Scripturas, <hi>1 Cor. 8.4. Eph. 4.6. Joan. 17.3.</hi>
+                  </p>
+                  <p>Deniq. veteres Deum Patrem eo quod Prin<g ref="char:EOLhyphen"/>cipium Cauſa,<note place="margin">Id. p. <hi>438.</hi>
+                     </note> Auctor &amp; Fons Eilii ſit, Unum illum, &amp; ſolum appellare non ſunt veriti, ſic enim ipſi Patres Nicaeni, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Unus enim Deus ac Pater omnium appella<g ref="char:EOLhyphen"/>tur,<note place="margin">Petav. Dog. Theol. <hi>l.</hi> 3. <hi>c.</hi> 4.</note> 
+                     <hi>Ep. 4.6.</hi> propter Originis ac Principii prae<g ref="char:EOLhyphen"/>rogativam.</p>
+                  <p>Ingenue tradimus <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Dei nomen Pa<g ref="char:EOLhyphen"/>tri proprie aſcribi.<note place="margin">Calv. in Proth. Va<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t Gent. Z<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>. de tribus Eloh. <hi>l.</hi> 5. <hi>c.</hi> 5</note> Patrem ſic vocari Unum, &amp; ſolum Deum <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>quia totius eſt Deitatis ſons.</hi>
+                  </p>
+                  <p>Solum Patrem, &amp; ſummum Deum, utpote Deitatis foutem.<note place="margin">Con en. Reſut. Irenie. Irenie.</note>
+                  </p>
+                  <p>Chriſtus Filium Dei ſe nominavit (&amp; Deum Patrium) &amp; non Deum,<note place="margin">Cardinal Cuſa in Cribrat. Al<g ref="char:EOLhyphen"/>coran, <hi>l.</hi> 1 <hi>c.</hi> 11.</note> cum nominatio Dei ſit nominatio Patris Chriſti.</p>
+                  <p>Obſervandum autem eſt,<note place="margin">Flac. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ic. Claris Scrip<g ref="char:EOLhyphen"/>tur. in Voce Deus.</note> quod plerum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Paulus in ſuis Epiſtolis nomen Dei Patri, Domini autem Chriſto ſeu Edio Dei tribuit. — Ideo quod in my<g ref="char:EOLhyphen"/>ſterio Redemptionis Patri ſumma dignitas ut ve<g ref="char:EOLhyphen"/>ro Deo tribuitur. — Haec eſt cauſa quod in Novo Teſtamento plerumque tantum prima Perſona vo<g ref="char:EOLhyphen"/>cetur Deus.</p>
+               </note>
+               <pb n="4" facs="tcp:94532:4"/>in Diſcourſe, but only the Two former; I ſhall therefore endeavour to give you full ſatisfaction about thoſe.</p>
+            <p n="1">1. As to the Firſt, The Quotation out of Biſhop <hi>Pierſon,</hi> to charge that as un<g ref="char:EOLhyphen"/>faithfully made, which it ſeems was done, is to queſtion not only my Honeſty, and my Underſtanding, but even my Eye-ſight too: The Words were theſe, <hi>The Name of God taken abſolutely, is often in Scripture ſpoken of the Father, and</hi> in many Places <hi>is to be ta<g ref="char:EOLhyphen"/>ken particularly for the Father,</hi> — and <hi>from hence he is ſtiled One God, the True God, the On<g ref="char:EOLhyphen"/>ly True God; and this,</hi> he ſays further, <hi>is a moſt neceſſary truth, for the avoiding Multiplication and Plurality of Gods,</hi> he laying the Unity mainly here, as I have done; tho' I take in alſo Unity of Eſſence and Eſſential Perfe<g ref="char:EOLhyphen"/>ctions, and of inſeparable Emanation from the Father, and inexiſtence in one another. I did not wonder at other Cavils made a<g ref="char:EOLhyphen"/>gainſt my Sermon, when I heard of that made againſt this Quotation: Any one that has Biſhop <hi>Pierſon</hi> on the Creed by him, may examine whether thoſe Words
+<pb n="5" facs="tcp:94532:5"/>be not there, and whether the Senſe be any thing alter'd by the abreviature; but ſince a Learned Elder Brother upon my repeating thoſe Words of Biſhop <hi>Pierſon,</hi> ſeemed to diſlike what the Biſhop ſaid, and to ſpeak againſt it, ſo that ſo great a Man would hardly have eſcaped Cenſure, had he now Preached them; and ſince I laid ſo great a ſtreſs in my Sermon upon the ſame No<g ref="char:EOLhyphen"/>tion, <hi>That the Term God, and one God, was predicated eminently, and abſolutely of God the Father in Scripture, and that this was obſerved by a great many others, as well as by Biſhop</hi> Pierſon, <hi>and is a very neceſ<g ref="char:EOLhyphen"/>ſary Truth,</hi> as he ſays, <hi>for avoiding Mul<g ref="char:EOLhyphen"/>tiplication, and plurality of Gods,</hi> and ſo for anſwering the Charge of <hi>Tri<g ref="char:EOLhyphen"/>theiſm,</hi> I ſhall now produce ſufficient Vouchers, and undeniable Authori<g ref="char:EOLhyphen"/>ties for it, and give you on the other ſide, ſome of thoſe Quotations, which I did not think ſo fit to repeat in the Pulpit, and they I hope, if duly con<g ref="char:EOLhyphen"/>ſidered, will ſet this matter right, and clear both Biſhop <hi>Pierſon,</hi> and the Quo<g ref="char:EOLhyphen"/>tation
+<pb n="6" facs="tcp:94532:6"/>out of him, and my ſelf, and the Notion I propoſed.</p>
+            <p n="2">2. The Second thing objected is the word <hi>Equivocal,</hi> this was the great Of<g ref="char:EOLhyphen"/>fence, and indeed it was a very high one, as charged upon me, <hi>viz.</hi> That I ſhould ſay that Chriſt, and the Holy Ghoſt, were God only Equivocally; but this is the falſeſt thing, and the greateſt Mi<g ref="char:EOLhyphen"/>ſtake in the World; I told your Lordſhip ſo at firſt, when you mention'd it to me, and I do now moſt ſolemnly profeſs it to be ſo, even in <hi>Verbo Sacerdotis,</hi> ſince that has been put to me: I cannot think any of my moſt prejudiced Hearers will affirm that I ſaid thoſe Words, if they do, I am ſure 'tis not true; there are not any ſuch in my Notes, which I ſhewed and read quickly after to Your Lordſhip and Dr. <hi>B</hi>—, and alſo to Dr. <hi>Br</hi>—, at Dr. <hi>H—k</hi>'s Houſe. This I thought might have given ſatisfaction to Your Lordſhip, and to them, and I ſuppoſed it had done ſo, at the laſt Chapter juſt before I went to the Commencement. I little expected to have heard any thing
+<pb n="7" facs="tcp:94532:6"/>more of this again, but in my abſence it ſeems you thought fit to renew it, and I ſhrewdly gueſs by whoſe Inſti<g ref="char:EOLhyphen"/>gation, by thoſe who are of late very angry, and concern'd for the loſs of ſomething elſe, beſides the Chriſtian Faith.</p>
+            <p>But I did uſe the word <hi>Equivocal,</hi> and that even about the Term God, and the Trinity and Unity; and this ſounds ill, and gave occaſion to ſome of my Hearers, and eſpecially to my Two offended Brethren, as the Letter calls them, to conceive, and to collect, for it can be no more, that I aſſerted that Chriſt, and the Holy Ghoſt were God only Equi<g ref="char:EOLhyphen"/>vocally: I cannot help their conceiving or imagining, or collecting this; I am ſure no ſuch Words were ſaid by me, nor any thing from whence any ſuch Con<g ref="char:EOLhyphen"/>ſequence or Collection ſhould follow, or be made by them, they might as well have conceived and collected, and as truly have charged me, that I ſhould ſay that God the Father was God only Equivocally, as Chriſt or the Holy Ghoſt: There was the ſame Reaſon and
+<pb n="8" facs="tcp:94532:7"/>ground for this Charge from the word <hi>Equivocal,</hi> and from any thing I ſaid a<g ref="char:EOLhyphen"/>bout it, as from the other, and it related as much to the one as to the other. What I ſaid, I read to them afterwards, <hi>That the Word God, and his being One, and Three, and when it is ſaid, God the Father is one God, and that all the Three perſons are one God, that thoſe Terms are not to be taken in the fame ſenſe, the ſame reſpect and conſideration, but in different, and ſo are Equivocal.</hi> I think no Orthodox Divine of Learning and Underſtanding in thoſe matters will gainſay this, nothing being more com<g ref="char:EOLhyphen"/>mon among them, than the word God to be taken either <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Eſ<g ref="char:EOLhyphen"/>ſentially or Perſonally, or ſometimes Eminently and Abſolutely for God the Father, ſometimes for the Divine Per<g ref="char:EOLhyphen"/>ſons together, and ſometimes for one a<g ref="char:EOLhyphen"/>lone. <hi>Crellius</hi> indeed is very angry, and diſpleaſed with theſe Diſtinctions, theſe different and Equivocal Senſes, and he had good reaſon, for they are the true and the only Anſwer to his laboured Book, <hi>De Uno Deo;</hi>
+               <note n="*" place="margin">
+                  <pb facs="tcp:94532:7"/>
+                  <p>Dixerit forte aliquis aliter accipi vocem Deus cum ſingulis Perſonis praedicatur, aliter cum abſolute ponitur; illic hypoſtatice ſumi, ſeu perſonaliter, hic eſſentialiter, equidem non crediderim acutiores ex Adverſariis ſic reſpon<g ref="char:EOLhyphen"/>ſuros. <hi>Crellius de Uno Deo.</hi> L. <hi>1. S. 1.</hi> Cap. <hi>1.</hi>
+                  </p>
+                  <p>Dei nomen interdum pro Perſona quapiam ſumi velut prima in qua Naturae totius eſt principium, interdum vero Naturam ſignificare nulla in certa perſona ſubſiſtentem, ſed in a<g ref="char:EOLhyphen"/>liqua trium, vel in ipſis tribus vagâ, &amp; infini<g ref="char:EOLhyphen"/>tâ notione comprehenſis. <hi>Petav. Dogm. Theol.</hi> L. <hi>3.</hi> C. <hi>3.</hi>
+                  </p>
+                  <p>Dei quippe nomen alias communiter, &amp; <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> alias ſecundum proprietatem ultimi prin<g ref="char:EOLhyphen"/>cipii, atque fontis, equo cetera perſonae proficiſ<g ref="char:EOLhyphen"/>cuntur. <hi>Id.</hi> L. <hi>3.</hi> C. <hi>2.</hi>
+                  </p>
+                  <p>Nomen Deus proprie ac directe Divinitatem, Naturamve Divinam indicat, adſignificat au<g ref="char:EOLhyphen"/>tem eandem ut in quapiam perſona ſubſiſten<g ref="char:EOLhyphen"/>tem, nullam de tribus expreſſe deſignans, ſed confuſe, &amp; univerſe interdum vero Deus cer<g ref="char:EOLhyphen"/>tam de tribus perſonam determinat, ut Da<g ref="char:EOLhyphen"/>maſcen obſervat. ut in Pſ. <hi>44.</hi> Unxit ſe Deus, ubi Pater intelligitur. <hi>Id.</hi> L. <hi>3.</hi> C. <hi>4.</hi>
+                  </p>
+                  <p>
+                     <pb facs="tcp:94532:8"/>Si Pater intelligatur per Deum ſummum, Dei Nomen &amp; Notionem uſurpari <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> non <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Id.</hi> L. <hi>3.</hi> C. <hi>9.</hi>
+                  </p>
+                  <p>Nec aliud evincunt Crelliana Sophiſmata quam quod ultro damus Catholici, non eſſe a<g ref="char:EOLhyphen"/>lium Deum ſummum ex quo omnia, quique ſit à nullo praeter Unum Patrem. <hi>Id.</hi> L. <hi>3.</hi> C. <hi>2.</hi>
+                  </p>
+                  <p>—Quare ſolius, vel Unius &amp; ſi quae ſunt aliae notionis ejuſdem duplicitur uſurpari poſſunt, aut ſecundum Perſonarum proprietatem, aut ſecundum communem naturam, illo modo ſolus Pater Deus eſt. <hi>Ib.</hi>
+                  </p>
+                  <p>Nam voces Jehovah, Deus, Adonai, <hi>&amp;c.</hi> vel ſumuntur proprie, &amp; communiter &amp; ſic nunquam vel Filius, vel Spiritus Sanctus diſtin<g ref="char:EOLhyphen"/>guitur à Jehovah Deo, aut Adonai, vel ſumun<g ref="char:EOLhyphen"/>tur, improprie, &amp; ſpecialiter, &amp; ſic ſaepius po<g ref="char:EOLhyphen"/>nuntur pro ſolo Patre, adeoque Filius, &amp; Spi<g ref="char:EOLhyphen"/>ritus Sanctus ab eo diſtinguntur. Inepte au<g ref="char:EOLhyphen"/>tem argumentatur, a ſignificatione vocis re<g ref="char:EOLhyphen"/>ſtrictae ad communis ſignificationis excluſionem. <hi>Biſterfield contra Crell. in Synop.</hi>
+                  </p>
+               </note>
+               <pb n="8" facs="tcp:94532:7"/>I ſhall put ſome of his Words, and
+<pb n="9" facs="tcp:94532:8"/>of <hi>Petavius</hi>'s both, upon this occaſion, on the other ſide, which will give a great deal of light to this matter, of the Term God being taken differently and ambigu<g ref="char:EOLhyphen"/>ouſly. Neither of my Brethren, nor your Lordſhip objected any thing againſt the word <hi>Equivocal,</hi> thus uſed by me, when I read the Paſſage to you, with what immediately went before, and what juſt followed after, which did ſufficiently ex<g ref="char:EOLhyphen"/>plain my meaning about it; and this my Brother <hi>H—k</hi> who heard it, expreſly declared at that time; and it ſeems did ſo again at the meeting in Chapter be<g ref="char:EOLhyphen"/>fore your Lordſhip and my Brethren then preſent, which might have ſpared you the trouble, one would have thought, of the ſevere Letter you ſent me.</p>
+            <p>The word <hi>Equivocal</hi> ſhould not have provoked you ſo much, which was ſo innocently uſed by me, and ſo ſigni<g ref="char:EOLhyphen"/>cantly as I thought, and very much to the purpoſe, <hi>viz.</hi> to take off the Contra<g ref="char:EOLhyphen"/>diction objected to us by our <hi>Socinian</hi> Adverſaries, with ſo much triumph, and ſo unanſwerably as they pretend of our
+<pb n="10" facs="tcp:94532:9"/>holding One God, and Three Gods, when we ſay, <hi>The Father is God, the Son is God, and the Holy Ghoſt is God, and yet there is but one God:</hi> If this be ſaid in the ſame ſenſe and conſideration, it will be very hard to get off from the Contradiction of affirming and denying the ſame thing, in the ſame ſenſe: But if the Affirma<g ref="char:EOLhyphen"/>tion and Denyal be not in the ſame ſenſe and meaning, but in different, which I take to be the meaning of <hi>Equivocal,</hi> then the Contradiction vaniſh<g ref="char:EOLhyphen"/>es, and is preſently anſwered, according to that Maxim of the School-men, <hi>Ubi eſt diverſa ſignificatio, non eſt contradictio affir<g ref="char:EOLhyphen"/>mantis &amp; negantis, Aequivocatio enim impedit contradictionem,</hi> Aquin. S. P. 1. Q. 13. From hence I took the Hint of this offenſive word <hi>Equivocal,</hi> which yet is often either expreſly and litterally, or in the ſame ſenſe to be found in the School-men, and in other Divines of all ſorts, on the like Occaſion, (applyed to God and the Tri<g ref="char:EOLhyphen"/>nity) as I ſhall largely ſhow in the Quo<g ref="char:EOLhyphen"/>tations on the other ſide<note n="*" place="margin">
+                  <pb facs="tcp:94532:9"/>
+                  <p>Sicut in divinis non dicitur generatio uni vocè cum generatione que eſt in Creaturis, ſic quoad Naturam per generationem communicatam eſt ibi plusquam Univocatio, ſed quoad proprie<g ref="char:EOLhyphen"/>tatem perſonam conſtituentem formalitèr eſt ibi quaſi Aequicatio, <hi>Durand. in Sentent.</hi> l. <hi>1.</hi> d. <hi>4.</hi> q. <hi>1.</hi>
+                  </p>
+                  <p>Vide <hi>Qu. 2.</hi> Utrum Deus genuit Deum, ubi ſic Deus importat ſuppoſitum habens divinam naturam. — Deus eſt terminus diſcretus, et Deus eſt terminus communis — alii dicunt, quod hoc nomen Deus proprie loquendo, non eſt univerſale nec ſingulare, ſed habet aliquid de ratione univerſalis, et aliquid de ratione ſingu<g ref="char:EOLhyphen"/>laris. — Cum hoc nomen Deus ſtet pro ſuppo<g ref="char:EOLhyphen"/>ſito habente divinitatem, poteſt de eo aliquid verè enunciari pro uno ſuppoſito, et negari pro alio — Ubi in unâ naturâ ſunt plura ſuppo<g ref="char:EOLhyphen"/>ſita de termino ſignificante naturam in concre<g ref="char:EOLhyphen"/>to poſſunt contradictoria verificari ratione alte<g ref="char:EOLhyphen"/>rius et alterius ſuppoſiti, ut haec Deus gene<g ref="char:EOLhyphen"/>rat et Deus non generat — dicendum quod verum eſt uno modo et uniformiter accepta ut<g ref="char:EOLhyphen"/>pote ſi referant tantum Eſſentiam vel tantum Perſonam, ſed ſi referant utramque ſimul, utrumque poteſt falſificari de altera parte. —
+<pb facs="tcp:94532:10"/>
+Ideò cum Deus in antecedenti ſtet pro perſonâ, eodem modo ſtat in conſequente relativo cum dicitur Deus qut eſt perſonaliter Pater, quod non eſt verum, aut Deus qui non eſt Pater perſonaliter, &amp; hoc eſt verum; et ſi inferat ergo non tantum eſt Unus Deus, non ſequi<g ref="char:EOLhyphen"/>tur abſolutè, quia plus negatur in conſequen<g ref="char:EOLhyphen"/>te quam in antecedente. — Si autem inferre<g ref="char:EOLhyphen"/>tur cum determinatione, benè ſequeretur di<g ref="char:EOLhyphen"/>cendo ſic, Deus genuit Deum qui eſt Deus Pater, ergo non eſt tantum Unus Deus per<g ref="char:EOLhyphen"/>ſonalitèr, quod verum eſt, <hi>Durandus in Sen<g ref="char:EOLhyphen"/>tent. Ib.</hi>
+                  </p>
+                  <p>Nomen ſubſtantiae aequivocatur apud nos cum quandoque ſignificat Eſſentiam, quandoque Hypoſtaſin. <hi>Aquin. S. P. 1. Q. 29.</hi>
+                  </p>
+                  <p>Nec Univocè nec pure aequivocè, ſed ana<g ref="char:EOLhyphen"/>logicè dicitur Deus in praemiſſis tribus ſigni<g ref="char:EOLhyphen"/>ficationibus. <hi>Id.</hi> Qu. <hi>13.</hi> Art. <hi>10.</hi> Sed phi<g ref="char:EOLhyphen"/>loſophus largo modo accipit aequivoca — <hi>Ib.</hi>
+                  </p>
+                  <p>Nomen ſubſtantiae eſt aequivocum nam po<g ref="char:EOLhyphen"/>teſt, &amp; naturam, &amp; ſubſtantiam ſignificare, <hi>Suarez.</hi> T. <hi>1.</hi> Lib. <hi>3.</hi>
+                  </p>
+                  <p>Propter aequivocationem vocabuli ſubſtantiae quia interdum ſumitur pro eſſentia divina, in<g ref="char:EOLhyphen"/>terdum pro quocunque ente reali — <hi>Molina
+<pb facs="tcp:94532:10"/>
+Comment. in Thom.</hi> qu. <hi>29.</hi> Artic. <hi>2.</hi> diſp. <hi>1.</hi>
+                  </p>
+                  <p>An eſſentia dicatur de Deo et Creaturis Uni<g ref="char:EOLhyphen"/>vocè, Aequi vocè vel Analogice? Q. <hi>29.</hi> Art. <hi>2. Ibid.</hi>
+                  </p>
+                  <p>Alitèr ſe habent hoc nomèn eſſentia, ſive Divinitas cum attribuitur perſonis, alitèr hoc nomen Deus, nam hoc nomen Deus attribuitur perſonis ut quod eſt, ſive ut habens divinam naturam, et ideo habet ſupponere perſonam; hoc vero nomen eſſentia attribuitur perſonis, ut quo perſona eſt, <hi>Alexand. Alenſis.</hi> Sum. <hi>P. 1. Qu. 50.</hi>
+                  </p>
+                  <p>Hoc Nomen Deus nec eſt proprium nec appellativum, ſed aliquid habet proprij aliquid appellativi, habet enim ſignificationem proprij et ſuppoſitionem appellativi, &amp; ita illa propo<g ref="char:EOLhyphen"/>ſitio Deus generat vel generatur, partim eſt ſingularis, et partim indefinita, <hi>Ib.</hi>
+                  </p>
+                  <p>Iſte terminus Deus poſitus in ſubjecto, ſupponit perſonaliter, &amp; hoc quod ſignificat eſſentiam perſonaliter, ſed hoc modo falſa eſt haec, Deus eſt Trinitas, <hi>Ib.</hi>
+                  </p>
+                  <p>Vide <hi>Petrum Alliac.</hi> qu. <hi>5.</hi> in prim. Sentent.</p>
+                  <p>Bellarmin de Chriſto, <hi>L. 2. C. 7, 8.</hi>
+                  </p>
+                  <p>
+                     <pb facs="tcp:94532:11"/>Alteram principalem rationem quâ conatur probare vim verborum ſignificare, Deum illum unum eſſe ſolum Patrem jam examinemus. Quamvis enim directè Reſponſionem noſtram non petat, utpote qui concedamus, unum Deum á quo illa omnia ſolum Patrem eſſe, tamen ve<g ref="char:EOLhyphen"/>ritatem ipſam aggreditur, nos<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſtatuimus rectè dici, Pater eſt unus Deus prout ſumitur vox Deus, <hi>V. 4.</hi> — Rationem ſuam dilemmate con<g ref="char:EOLhyphen"/>firmat. <hi>Haec enim Locutio,</hi> inquit, <q>Unus ;ille Deus eſt Pater, vel eſt ſynecdochica, vel propria, ita ut eâ ſalvâ, etiam liceat dicere, unus ille Deus eſt Filius, unus ille Deus eſt Spiritus Sanctus; ſi ſtatuis prius contra ſic argumentari licebit, Deus ille unus eſt tota Trinitas, atqui Pater eſt Deus ille Unus, ;ergo Pater eſt tota Trinitas.</q> Verùm hoc ſo<g ref="char:EOLhyphen"/>phiſma nititur <hi>Aequivocatione</hi> phraſeos, <hi>Deus ille Unus,</hi> vel potius vocis <hi>Deus:</hi> Nam vox Deus ſumitur vel abſolutè, eſſentialiter, &amp; communitèr ſic, Deus eſt Pater, Filius et Spiritus Sanctus, vel ſumiter relativè, perſo<g ref="char:EOLhyphen"/>naliter ac reſtrictè, ſic Deus non eſt tota Trinitas: Itaque licet Pater ſit Unus ille Deus, tamen non eſt omne id, quod eſt unus ille Deus. Diverſus autem ſignificandi modus
+<pb facs="tcp:94532:11"/>
+quo eadem vox jam communiùs jam ſpecialiùs ſumpta ſibi opponitur etiam de alijs uſurpa<g ref="char:EOLhyphen"/>tur in Scripturâ. — <hi>Biſterfield</hi> de Uno Deo contra <hi>Crell.</hi> lib. <hi>1.</hi> ſect. <hi>1. C. 2. p. 43.</hi>
+                  </p>
+                  <p>Bellarminus <hi>C. 2.</hi> de Chriſto taxat eos qui filium Dei vocant <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, oritur autem er<g ref="char:EOLhyphen"/>roris ſuſpicio ex aequivocatione vocabuli, nam <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> duplicem ſenſum habet — Divinitatem conſiderari duplicitèr ratione ſui eſſe, ratione modi habendi, <hi>&amp;c. Meiſneri</hi> philoſoph. ſobr. parte <hi>2.</hi> ſect. <hi>1. c. 2. qu. 2.</hi>
+                  </p>
+                  <p>Facit tamen in Trinitate primatus ori<g ref="char:EOLhyphen"/>ginis atque ordinis — ut nomen Dei de Pa<g ref="char:EOLhyphen"/>tre Antonomaſticè uſurpetur, <hi>Vogelſang.</hi> ex<g ref="char:EOLhyphen"/>ercitat. Theolog. <hi>p. 353.</hi>
+                  </p>
+                  <p>Veruntamen aequivocè duo predicamenta Deo aptari ſubſtantiam &amp; relationem, <hi>Junij</hi> Cath. doct. de Trin. defenſ. <hi>l. 1.</hi>
+                  </p>
+                  <p>Unus eſt, inquis <hi>Samoſatene,</hi> Deus, ve<g ref="char:EOLhyphen"/>riſſimum, ſed rectè intelligendum, nam et in ſubjecto et in predicato poſitae ſunt adverſus imprudentiores tendiculae, niſi attenderint, et ex ijs falſa concluſio adſtruitur, Deus enim aut abſolutè et indeterminatè dicitur, aut etiam determinatè, priore modo de eſſentiâ, poſterio<g ref="char:EOLhyphen"/>re
+<pb facs="tcp:94532:12"/>
+de aliquâ unâ perſona dicitur, Secundum priorem modum Chriſtus dicebat Deus est Spi<g ref="char:EOLhyphen"/>ritus, <hi>Joan. 4.24.</hi> Secundum poſteriorem Paulus unus Pater omnium, <hi>Eph. 4.6.</hi> Hic autem Deum abſolutè &amp; indeterminatè enun<g ref="char:EOLhyphen"/>cias, de eſſentiâ igitur praedicatio eſt &amp; ita accipimus, tu de perſonâ accipis <hi>Aequivocè</hi> &amp; idem concludis contra praedicationum &amp; ar<g ref="char:EOLhyphen"/>gumentationum leges, <hi>Id. Def. 2.</hi>
+                  </p>
+                  <p>
+                     <hi>Obj.</hi> Quod Unum eſt id Trium eſſe non poteſt Deus Unus eſt, Deus igitur Trinus eſſe non poteſt?</p>
+                  <p>
+                     <hi>R.</hi> Illudis Samoſatene, tum equivocatione (ut vulgo dicitur) tum etiam elenchi ignora<g ref="char:EOLhyphen"/>tione — Aequivocationem committis cum di<g ref="char:EOLhyphen"/>cis Unum, unum, inquies, ecquid minùs aequi<g ref="char:EOLhyphen"/>vocum eſſe quam unum poteſt? tibi fortè non videtur, ſed tamen ſi veritati credis, me de<g ref="char:EOLhyphen"/>monſtrantem audies, unum duobus modis di<g ref="char:EOLhyphen"/>citur, abſolutè et relatè — <hi>&amp;c. Ib.</hi> p. <hi>78.</hi>
+                  </p>
+                  <p>
+                     <hi>Ob.</hi> Non poſſunt contraria gradibus ex<g ref="char:EOLhyphen"/>cellentibus in eodem ſubjecto ſimul exiſtere, De<g ref="char:EOLhyphen"/>us autem Unum et Trinum eſſe tam ſunt con<g ref="char:EOLhyphen"/>traria quam Spiritum eſſe et Corpus, aeternum et non aeternum, Deus ergo Unus &amp; Trinus eſſe non poteſt.</p>
+                  <p>
+                     <pb facs="tcp:94532:12"/>
+                     <hi>R.</hi> Majorem ut negemus abſit, ſed Aſſump<g ref="char:EOLhyphen"/>tio tua aequivocatione &amp; elenchi ignoratione fallit, eâdem planè quam in ſuperiore tuâ argumenta<g ref="char:EOLhyphen"/>tione reteximus. <hi>Junii Defenſ. 2. P. 80.</hi>
+                  </p>
+                  <p>
+                     <hi>Ob.</hi> Quod expreſſum eſt imagine &amp; imago exprimens, non ſunt idem, Chriſtus eſt imago Dei inviſibilis, Chriſtus ergo et Deus inviſibilis non ſunt idem.</p>
+                  <p>
+                     <hi>R.</hi> Aequivocatio in nomine idem manifeſta eſt, nam aut idem eſſentia dicitur neutro gene<g ref="char:EOLhyphen"/>re, aut idem perſonâ maſculino. <hi>Ib. P. 87.</hi>
+                  </p>
+                  <p>
+                     <hi>Ob.</hi> Quod ejuſdem eſt aeternitatis et ma<g ref="char:EOLhyphen"/>jeſtatis cum Deo, nihil omnino ab eo accepit, non vitam, non gloriam. Filius ejuſdem eſt —</p>
+                  <p>
+                     <hi>R.</hi> Majorem Samoſatene de induſtriâ facis aequivocam, — Deum non ignoras à nobis aut abſolutè de eſſentiâ dici, — aut relatè de unâ ali<g ref="char:EOLhyphen"/>quâ perſonâ. <hi>Ib. P. 90.</hi>
+                  </p>
+                  <p>— Praetereà nomen Dei, quod eſſentiale, perſonaliter accipis aequivocè. <hi>P. 91.</hi>
+                  </p>
+                  <p>
+                     <hi>Ob.</hi> Marc. <hi>13.32.</hi> Fallis, — vocis Pa<g ref="char:EOLhyphen"/>ter aequivocatione, — Patris nomen hoc loco eſſentiale ac non perſonale eſt. — Fefellit te et hypotheſeos et aequivocationis illius ignoratio, quam aequivocationem poſt reſurrectionem quo<g ref="char:EOLhyphen"/>que ſervavit Chriſtus dicens non veſtrum eſt
+<pb facs="tcp:94532:13"/>
+ſcire quae Pater poſuit in poteſtate ipſius, <hi>Act. 1.7. Ib. P. 96.</hi>
+                  </p>
+                  <p>Ad Obj. de Chriſti ſubjectione, <hi>1 Cor. 15.24.</hi> ex quo Chriſtum ſibi ſubjectum fore, ſic ait omnino conſtat nomen Chriſti de perſonâ ſive in ſeſe, ſive in Myſterio enunciatum, dici aequivoce. <hi>Ib. P. 101.</hi> &amp; <hi>P. 182.</hi>
+                  </p>
+                  <p>Antecedentis duo ſunt aequivoca, primùm enim Deus appellatur Pater, aut eſſentialiter reſpectu creaturarum, aut perſonaliter reſpectu Filij et relationis internae, <hi>&amp;c. Id. Defenſ. 3. P. 185.</hi>
+                  </p>
+                  <p>
+                     <hi>Now that there is neceſſarily underſtood this la<g ref="char:EOLhyphen"/>titude of Variety, in the ſence of ſeveral of the Words of the</hi> (Athanaſian) <hi>Creed, is apparent from the conſent of thoſe that do ſubtilize this Miſtery to the utmoſt curioſity, for it is impoſſible for them or any elſe to think, that the Godhead of the whole Trinity is one in the ſame ſence, that the Father conſidered alone is one, or the Son and Holy Ghoſt ſo conſidered. — So when</hi> the Father <hi>is ſaid</hi> to be omnipotent, the Son omnipotent, <hi>and</hi> the Holy Ghoſt omnipotent, <hi>it is evident that omnipotent has not the ſame ſence in all, for the Father has the power of Eternal Generation. — And the like may be ſaid of the term God; by which if you un<g ref="char:EOLhyphen"/>derſtand that which is firſt of all, in ſuch a ſence as that all elſe is from him, and he from none, the Son and Spirit cannot be ſaid to be God in this ſignification, becauſe the Father is not from them, but they from the Father.</hi> More<hi>'s</hi> Miſtery of Godlineſs, <hi>Book 9. Cap. 2.</hi>
+                  </p>
+                  <p>
+                     <hi>And we muſt ſtill profeſs, that we take none of thoſe words to be proper, formal, univocal terms.</hi> Baxters Cath. Theology, <hi>Sect. 1.</hi>
+                  </p>
+               </note>
+               <pb n="10" facs="tcp:94532:9"/>, and the Pages following.</p>
+            <p>
+               <pb n="11" facs="tcp:94532:13"/>Whether alſo this might not be ap<g ref="char:EOLhyphen"/>plyed to defend the <hi>Athanaſian Creed, The Father Eternal, the Son Eternal, and the Holy Ghoſt Eternal, and yet not Three Eternals, but One Eternal,</hi> as well as <hi>Aquinas</hi> his taking them adjectively, and ſubſtantively, which <hi>Petavius</hi> diſlikes, (being willing to allow <hi>tres Aeterni, &amp; tres habentes Deitatem, &amp; tres Divini</hi>) and whi<g ref="char:EOLhyphen"/>ther alſo in thoſe Scholaſtick Queſtions, and ſayings, <hi>Utrum nomina Eſſentialia ap<g ref="char:EOLhyphen"/>proprianda perſonis, &amp; nomina Eſſentialia in divinis concreta nonnunquam pro Eſſentia, ali<g ref="char:EOLhyphen"/>quando pro una perſona, aliquando pro tribus ſupponunt.</hi> I offer to the Conſideration of my more Learned Brethren. This I hope will, if not juſtifie, at leaſt excuſe the word; and if any of them will pleaſe to teach me a better way to take off the objected Contradiction, I promiſe never to make uſe of that word again.</p>
+            <p>But after all, could Malice it ſelf, tho' never ſo blind, if it had but Ears, and heard that Sermon of mine, charge me with ſaying, that Chriſt and the Ho<g ref="char:EOLhyphen"/>ly
+<pb n="12" facs="tcp:94532:14"/>Ghoſt were God only Equivocally, and not properly, truly and naturally, when I ſo often, and ſo fully, plainly and directly aſſerted the contrary, thro' the whole Sermon, and in ſeveral ſuch paſſages as theſe following, <q>That the Myſtery of Chriſtian Faith lay in God the Father's having a Son, and an Ho<g ref="char:EOLhyphen"/>ly Spirit, diſtinct Perſons from himſelf, the one begotten of him from all Eter<g ref="char:EOLhyphen"/>nity, and ſo his only Son, the other proceeding from him and the Son both, and theſe two ſtill in the Fa<g ref="char:EOLhyphen"/>ther, Naturally, and Inſeparably uni<g ref="char:EOLhyphen"/>ted to him, as to the Fountain of their being, one with him in the ſame Di<g ref="char:EOLhyphen"/>vine Nature and Eſſence, and all three together contriving and accompliſhing the Redemption of mankind. — That God the Father Almighty hath one only begotten Son, of the ſame Na<g ref="char:EOLhyphen"/>ture and Eſſence with himſelf, <hi>Who is the Brightneſs of his Glory, and the expreſs Image of his Perſon:</hi> And that there is alſo a Holy Ghoſt pro<g ref="char:EOLhyphen"/>ceeding from both, and ſent by both,
+<pb n="13" facs="tcp:94532:14"/>who hath the Characters and Attri<g ref="char:EOLhyphen"/>tributes of Divinity plainly aſcribed to him, and who is joined with the Fa<g ref="char:EOLhyphen"/>ther and the Son in the Office of Bap<g ref="char:EOLhyphen"/>tiſm, and in the Form of Chriſtian Bleſſing, and againſt whom the moſt unpardonable ſin may be commit<g ref="char:EOLhyphen"/>ted..</q>
+            </p>
+            <p>
+               <q>That the Son and Holy Ghoſt have the ſame Divine Nature and Eſſence with the Father, derived and commu<g ref="char:EOLhyphen"/>nicated to them. Tho' the Name of God taken abſolutely, is eminently predicated of God the Father in Scrip<g ref="char:EOLhyphen"/>ture, and he is called <hi>God,</hi> the <hi>One God,</hi> eminently, tho' not excluſively, (<hi>To us there is One God the Father, — I I believe in One God the Father Almigh<g ref="char:EOLhyphen"/>ty,</hi> &amp;c.) yet the other two Perſons having the Divine Nature, and the Divine Attributes and Perfections be<g ref="char:EOLhyphen"/>longing to them, may each of them properly be called God, and the Di<g ref="char:EOLhyphen"/>vinity does certainly belong to each of them.</q>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:94532:15"/>After all theſe Paſſages and Expreſſi<g ref="char:EOLhyphen"/>ons in my Sermon, which I hope they who have not a memory only on one ſide will pleaſe to remember and owne, beſides, the whole drift and deſign of it, which was to lay down as plainly, and to vindicate as ſtrongly as I could, the Myſtery of Chriſtian Faith, and of the Bleſſed Trinity; could any fair and candid Hearer, or indeed any one with<g ref="char:EOLhyphen"/>out thoſe Epithets have the leaſt rea<g ref="char:EOLhyphen"/>ſon or pretence to charge me with aſ<g ref="char:EOLhyphen"/>ſerting, that Chriſt and the Holy Ghoſt were God only Equivocally, and not truly and properly, or could they upon hearing, and miſunderſtanding that word as applyed to the Terms God, Trinity and Unity, One and Three, God's be<g ref="char:EOLhyphen"/>ing One in Perſon in one ſenſe, and Three in Perſon in another; could they with any more Reaſon, and not with<g ref="char:EOLhyphen"/>out the greateſt Miſtake imaginable, and one would think a wilful one, (tho' I am willing to think otherwiſe, having never given either of them rea<g ref="char:EOLhyphen"/>ſon for that) charge this as belonging
+<pb n="15" facs="tcp:94532:15"/>to Chriſt and the Holy Ghoſt, and not as much to God the Father, and the whole Trinity, when I uſed and apply<g ref="char:EOLhyphen"/>ed this Term in general to the Name of God, his being One, and Three, be<g ref="char:EOLhyphen"/>ing taken either Eſſentially or Perſonal<g ref="char:EOLhyphen"/>ly, ſometimes Abſolutely and Eminently, for One Perſon ſingly, ſometimes for all the Three Perſons together, and ſo upon the account of thoſe different ſignifications theſe terms were Equivocal, Hononymous and Ambiguous, as many, I have ſhown, and particularly a Lutheran Profeſſor in<note n="*" place="margin">Homonymia in voce unus — in vocabulo tres. <hi>Botſac. Anti-Crellius,</hi> Lib. <hi>2.</hi> Sect. <hi>1.</hi> C. <hi>1.</hi> Expreſſa latet ambiguitas in voce Deus, quae modò perſonali<g ref="char:EOLhyphen"/>tèr, uſurpatur modò eſſentiàli<g ref="char:EOLhyphen"/>tèr, <hi>Id.</hi> Lib. <hi>2.</hi> S. <hi>1.</hi> C. <hi>7.</hi>
+               </note> anſwer to <hi>Crellius</hi> had long agoe aſſerted before me, and this only to take off the Contradiction of One and Three, and to anſwer that Jewiſh, Pagan, Mahometan, Sabellian, Samoſatenian, Photinian, Ar<g ref="char:EOLhyphen"/>rian, Macedonian, Socinian, Muggleto<g ref="char:EOLhyphen"/>nian Objection of Tritheiſm, againſt the Doctrine of the Trinity.</p>
+            <p>The Father is the only ſelf-exiſtent, unoriginated Being, whom the Ancients call <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of the other two, and ſo in the words of a Right Reverend and Excellent Perſon, <hi>God in the higheſt ſenſe,</hi>
+               <pb n="16" facs="tcp:94532:16"/>whom the Scriptures, Creeds,<note n="(a)" place="margin">
+                  <pb facs="tcp:94532:16"/>
+                  <p>Credo in Deum Patrem omnipotentem.</p>
+                  <p>Orientales Eccleſiae omnes pene ita tradunt, credo in unum Deum Patrem Omnipotentem. <hi>Ruffin. in Symbol.</hi>
+                  </p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, — <hi>Irenaeus,</hi> l. <hi>1.</hi> c. <hi>2.</hi>
+                  </p>
+                  <p>Cum teneamus autem nos regulam veritatis, <hi>i. e.</hi> quia ſit unus Deus omnipotens, qui om<g ref="char:EOLhyphen"/>nia condidit per verbum ſuum, <hi>Id. c. 19.</hi>
+                  </p>
+                  <p>— In unum Deum credentes fabricatorem Coeli et Terrae, et omnium quae ijs ſunt, per Chriſtum Jeſum Dei Filium, <hi>Id. L. 3. C. 4.</hi>
+                  </p>
+                  <p>Regula eſt autem fidei, — illa ſcilicet qua creditur unum omnino Deum eſſe, nec alium praeter Mundi Conditorem, qui univerſa de ni<g ref="char:EOLhyphen"/>hilo produxit, per verbum ſuum primo omnium imiſſum, id verbum Filium ejus appellatum. Tertull. praeſcr. adv. <hi>Haereſ. C. 13.</hi>
+                  </p>
+                  <p>Nos unicum quidem Deum credimus ſub hac tamen diſpenſatione, quam <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> dicimus, ut unici Dei ſit et Filius ſermo ipſius, qui ex ipſo proceſſerit, per quem omnia facta ſunt. — <hi>Id. adv. Praxeam C. 2.</hi>
+                  </p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Symbol. Vetuſtiſ. Ec<g ref="char:EOLhyphen"/>cleſ. Hieroſ. apud Cyrill in Catecheſ. 6.</hi>
+                  </p>
+                  <p>
+                     <pb facs="tcp:94532:17"/>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, — Eüſeb-Caeſar Confeſ. in Synod. Nicaen apud Socrat. H. E. l. <hi>1.</hi> c <hi>8.</hi>
+                  </p>
+               </note>
+               <pb n="16" facs="tcp:94532:16"/>and Chri<g ref="char:EOLhyphen"/>ſtian Offices<note n="(b)" place="margin">
+                  <pb facs="tcp:94532:17"/>
+                  <p>Haec Patris <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> in omnibus Catholicae Eccleſiae Lyturgijs hodie agnoſcitur, nam et in <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Deum Patrem, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> (ut <hi>Ju<g ref="char:EOLhyphen"/>ſtinus</hi> loquitur) glorificamus, et preces pleraſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ad ipſum dirigimus. <hi>Bull. Def. Fid. Ni<g ref="char:EOLhyphen"/>caen P. 208.</hi>
+                  </p>
+                  <p>Veteri ex uſu plerae<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> preces ad Patrem re<g ref="char:EOLhyphen"/>feruntur, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ita decretum legimus in Cartha<g ref="char:EOLhyphen"/>ginenſi tertiâ Synodo, Canone <hi>23.</hi> ut cum ad altare aſſiſtitur, ſemper ad Patrem dirigatur oratio. <hi>Petav. Dogm. Theolog. de Trin. L. 3. C. 7.</hi>
+                  </p>
+                  <p>Inſtabunt illi forte cum quibus nunc agimus, et dicent ſe idem aliquo modo ſtatuere, Pa<g ref="char:EOLhyphen"/>trem enim ſolum ideo vocari Deum verum, quia fons ſit Divinatis, ac porro quandam prae Filio, ac Spiritu Sancto praerogativam ratione Divi<g ref="char:EOLhyphen"/>nitatis habens, ſiquidem Filius, ac Spiritus Sanctus Divinam Eſſentiam ab ipſo habeant, ipſe á Nemine, quam ob cauſam Patrem no<g ref="char:EOLhyphen"/>minatim <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> appellant, et eâ ratione Filio,
+<pb facs="tcp:94532:18"/>
+et Spiritui ſancto opponunt, ſed qui ita reſpon<g ref="char:EOLhyphen"/>dent, vel ſibi contradicunt, vel nihil dicunt, nu<g ref="char:EOLhyphen"/>da<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> nobis verba pro rebus obtrudunt. <hi>Crell. de Uno Deo, L. 1. C. 1.</hi>
+                  </p>
+                  <p>Dei vero Nomen aut omnibus, aut pleriſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> omnibus primam omnium rerum cauſam ſigni<g ref="char:EOLhyphen"/>ficat, aut quod à nullo ſit, et à quo ſint om<g ref="char:EOLhyphen"/>nia, id quidem convenit <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, ſi vel cauſae no<g ref="char:EOLhyphen"/>men proprie ſumatur, vel cum creaturis confe<g ref="char:EOLhyphen"/>ratur, cum enim creatus non fuerit, per eum omnia quaecun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſunt facta, ſed ſi collatio in<g ref="char:EOLhyphen"/>ſtituatur Patris cum <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, ſeu Filio, quia a nullo eſt Pater, a Patre eſt Filius, propterea Pater peculiari quadam ratione Dei nomen ſibi ven<g ref="char:EOLhyphen"/>dicat, nam ſi Dei nomen ens deſignat quod a nullo eſt, a quo caetera, id Patri con<g ref="char:EOLhyphen"/>venit non modo ratione Naturae Divinae, quae nullius cauſae proprie dictae ſit effe<g ref="char:EOLhyphen"/>ctum cum omnium creaturarum ſit cauſa, quo ſenſu etiam <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Dei Nomen participant, ſed etiam ratione Perſonae quae ab alia nulla ducit orginem ullo modo cum ab ea, aeterna quadam, et incomprehenſibili ratione pro<g ref="char:EOLhyphen"/>cedant <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> et Spiritus ſanctus. <hi>Placaei re<g ref="char:EOLhyphen"/>futat. Crell. p. 252.</hi> Vide <hi>Crell. Ib.</hi>
+                  </p>
+                  <p>Deus ſummus vel Eſſentiae, et Naturae, vel
+<pb facs="tcp:94532:18"/>
+(ſi ita loqùi fas eſt) muneris ratione, priore modo Deus ſummus eſt quicun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> praeditus eſt eſſentia divina, poſteriore is tantum qui cum ſit praeditus eſſentia divina perſonam, et partes ſupremi at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> independentis totius Mundi Mo<g ref="char:EOLhyphen"/>narchiae ſuſtinet in Negotio ſalutis noſtrae, <hi>i. e.</hi> Pater. <hi>Ib. p. 326.</hi>
+                  </p>
+                  <p>Ut igitur formaliter Reſpondeam, Deo al<g ref="char:EOLhyphen"/>tiſſimo nihil dignius, nihil excellentius ulla ra<g ref="char:EOLhyphen"/>tione cogitari poteſt, hoc veriſſime dicitur de Deo altiſſimo comparato cum omnibus alijs en<g ref="char:EOLhyphen"/>tibus; at ſi Deus altiſſimus, hoc eſt una per<g ref="char:EOLhyphen"/>ſona comparetur, cum Deo altiſſimo, <hi>h. e.</hi> aliâ Perſonâ divinâ quae cum ipſa ſunt Deus altiſſimus diſtinctione opus eſt, eſt enim excel<g ref="char:EOLhyphen"/>lentia eſſentialis et excellentia perſonalis. <hi>Ib. p. 28.</hi>
+                  </p>
+                  <p>Ex veterum ſententia cui ratio communis ſuffragatur, ſi duo in divinis eſſent Ingenita, ſive principia a ſe pendentia, conſequens foret ut non modo Pater ſuâ privaretur <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> qua Divinitatem à ſeipſo hoc eſt, à nullo alio habet, verum etiam ut duo Dij neceſſario ſtatuerentur, contra poſitâ ſubordinatione, qua Pater ſolus a ſeipſo Deus, Filius vero de Deo Patre, Deus eſſe docetur, putarunt Doctores tum illam Pa<g ref="char:EOLhyphen"/>tris
+<pb facs="tcp:94532:19"/>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, tum Divinam Monarchiam in tuto iri collocatam; quod idem et ad tertiam Divi<g ref="char:EOLhyphen"/>nitatis perſonam, Spiritum nempe ſanctum ex<g ref="char:EOLhyphen"/>tendi voluerunt, quem quod a Patre per Fi<g ref="char:EOLhyphen"/>lium ipſe ſuam habeat originem, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, ſive tres Deos neutiquam inducere crediderunt, <hi>Bull. Def. Fid. Nic. Sect. 4.</hi>
+                  </p>
+                  <p>Vocabulum Deus duobus modis in ſacris ſcrip<g ref="char:EOLhyphen"/>turis repraeſentari deprehenditur, ut abſolutè pri<g ref="char:EOLhyphen"/>mum inoriginatum, et à nullo alio eſſe habens, à ſeipſo ita ſubſiſtens, ut prorſus originem eſ<g ref="char:EOLhyphen"/>ſendi aliundé non agnoſcat, omnia à ſe et ex ſe habeat; inoriginatum, et origo ac principium abſolutè omnium eorum ſit, quae in Coelo et in Terrâ ſunt, etiam ipſius Filij et Spiritus Pa<g ref="char:EOLhyphen"/>ter eſt, qui emphaticè, paſſim conſtanter et in Novo Teſtamento ita vocatur, <hi>Joan. 17. 1 Cor. 8. Epheſ. 1.3, 4. Apoc. 1.6.</hi> et in omnibus fermè Novi Teſtamenti libris; ne ſemel autem toto novo Teſtamento <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Deus, expreſſo textu ad Patrem, Filium et Spiri<g ref="char:EOLhyphen"/>tum ſanctum ſimul determinatur cum unus Deus appellatur, ut iſta tria unum illum Deum eſſe dicatur, ſed ad priorem ſenſum in voce Dei â Spiritu ſancto intendi palam ſit, in veteri Te<g ref="char:EOLhyphen"/>ſtamento unus eſt altiſſimus Creator omnium
+<pb facs="tcp:94532:19"/>
+ait Siracides <hi>cap. 1.</hi> &amp; alibi. <hi>2.</hi> Ut proxime ex et ab illo primo originatum, derivatum, de<g ref="char:EOLhyphen"/>ductum, ortum illi debens, etiam ſummum ens, ſed ortum et derivatum, proxima veluti ſummi illius ſubſiſtentis propago, et emanatio ut ve<g ref="char:EOLhyphen"/>teres dixerunt, genitura et ſpiratura ejus, in eſſe, nomine, auctoritate, opere, attributis et cultu Patri par, hoc modo Dei vocem ſumendo Deus etiam Filius et Spiritus Dei eſt. <hi>Henricus Nicolai Profeſſor Lutheranus in Metho<g ref="char:EOLhyphen"/>do Trinitatis.</hi> Theſi. <hi>47.</hi>
+                  </p>
+                  <p>Jehovah deducitur ab Hava vel Hajah, quod ſignificat eſſe, cum Deus ſit Eſſentia omnium Eſſentiarum — Nec incommodè ſta<g ref="char:EOLhyphen"/>tuitur hanc vocem ex <hi>c. 3. Exod. v. 14.</hi> ubi Deus dicit Ehejeh Aſcher Ehejeh — ſolus Deus eſſe ſuum habet à ſeipſo vel rectiùs eſt ſuum eſſe, reliqua entia dependent, ab hoc ſummo ente, ſolus Deus eſt <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Gerhard</hi> de Naturâ Dei, loci com<g ref="char:EOLhyphen"/>munes.</p>
+               </note>
+               <pb n="16" facs="tcp:94532:16"/>call ſo abſolutely, and by way of Eminence and Prerogative. The Son is produced of the Father, and ſo is not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or God in that ſence, as the Father who is from none, but is <hi>God of God,</hi> and is <hi>very God,</hi> as having the Di<g ref="char:EOLhyphen"/>vine Nature and Perfections naturally belonging to them, but derived and com<g ref="char:EOLhyphen"/>municated from the Father, as the Holy Ghoſt from both: So that the one is <hi>Deus Ingenitus,</hi> the other <hi>Deus Genitus,</hi> and the third <hi>Deus procedens;</hi> all Divines al<g ref="char:EOLhyphen"/>low that the words are taken thus diffe<g ref="char:EOLhyphen"/>rently, and in theſe ſeveral ſenſes and meanings, and why then may they not be called Aequivocal? Since<note n="*" place="margin">Sum. <hi>p.</hi> 1. <hi>q.</hi> 13.</note> 
+               <hi>Thomas Aqui<g ref="char:EOLhyphen"/>nas</hi> ſays, <hi>Quicquid praedicatur de aliquibus ſe<g ref="char:EOLhyphen"/>cundum idem nomen, &amp; non ſecundum ean<g ref="char:EOLhyphen"/>dem rationem, praedicatur de ijs aequivoce.</hi> But <hi>Deus</hi> as it ſignifies a ſelf-exiſtent, unori<g ref="char:EOLhyphen"/>ginated Being, and is often taken in that ſenſe only by Divines,<note n="g" place="margin">
+                  <hi>Solus Deus</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Gerard. <hi>loc. com. de natu<g ref="char:EOLhyphen"/>ra Del.</hi> Deum eſſe a ſeip<g ref="char:EOLhyphen"/>ſo, hoc eſt ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ab alio, ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ex alio. <hi>Ameſij</hi> Medul. Theol. <hi>l. 1.</hi> Deus qui ſemper eſt, nec habet aliunde princi<g ref="char:EOLhyphen"/>pium ipſe ſui ori<g ref="char:EOLhyphen"/>go eſt, ſuae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> cau<g ref="char:EOLhyphen"/>ſa jubſtantiae. <hi>Hieron.</hi> in E<g ref="char:EOLhyphen"/>piſt. ad Eph. c. <hi>3.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Helych Suidas.</hi>
+               </note> is predicated on<g ref="char:EOLhyphen"/>ly of God the Father, and not <hi>ſecundum eandem racionem,</hi> or upon the ſame Ac<g ref="char:EOLhyphen"/>count of the other two Divine Perſons,
+<pb n="17" facs="tcp:94532:17"/>neither of which are ſelf exiſtent and un<g ref="char:EOLhyphen"/>originated,<note place="margin">The Learned Mr. <hi>Hill</hi> calls the Father <hi>Ori<g ref="char:EOLhyphen"/>ginal God,</hi> p. 163. <hi>Vindi<g ref="char:EOLhyphen"/>cation of Primi<g ref="char:EOLhyphen"/>tive Fathers;</hi> &amp; <hi>p.</hi> 113. takes the term <hi>Mind</hi> (relating to the Trinity) equivocally in different ſen<g ref="char:EOLhyphen"/>ſes. The Father a<g ref="char:EOLhyphen"/>lone is Origi<g ref="char:EOLhyphen"/>nally that Deity which Chriſt origi<g ref="char:EOLhyphen"/>nally is not, for Chriſt is God by being of God, <hi>Hooker</hi>'s <hi>Eccleſ. Pol.</hi> l. 5. §. 54. So Dr. <hi>More</hi> in the ſame place forequoted.</note> nor God in the higheſt ſenſe of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but the one is God begotten, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; and the other God proceeding, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as they are frequently called, but both properly, and truly, and naturally, and eternally God in theſe ſenſes, both having the true Divine Nature and the ſame Divine Eſſence with the Father, be<g ref="char:EOLhyphen"/>longing to them, and ſo being <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> with him, but yet he being the fountain of Divinity, the <hi>Principium, Fons,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> of the other two who were produ<g ref="char:EOLhyphen"/>ced from him, ſent by him, and ſome are not afraid to ſay ſub-ordinate to him<note n="*" place="margin">
+                  <hi>Vide</hi> Bull <hi>de Subordinatione Filij ad Patrem</hi> Defenſ. Fid. Ni<g ref="char:EOLhyphen"/>caen. Sect. 9.</note>, is called eminently and abſolutely, and by way of Excellence and Prerogative, the one God, and in the words forequo<g ref="char:EOLhyphen"/>ted, <hi>God in the higheſt ſence,</hi> which is a Notion <hi>Crellius</hi> was extreamly angry and provoked at<note n="†" place="margin">
+                  <hi>Inſtabunt,</hi> &amp;c.</note>, but others of known Or<g ref="char:EOLhyphen"/>thodoxy pleaſed with, as an Anſwer to him and to Tritheiſm. This tho' not ſaid thus expreſly in my Sermon, yet was all could be aimed at and deſigned, and the
+<pb n="18" facs="tcp:94532:20"/>utmoſt poſſible meaning of the word <hi>Equivocal,</hi> as uſed by me, which was but once tranſiently mention'd, and applyed to the Terms God, One and Three, <hi>Deus unus et trinus,</hi> to take off the contradiction of them.<note n="*" place="margin">Ambiguitas tollenda nominis hujus ſum<g ref="char:EOLhyphen"/>mus Deus. Etenim ſi is intelligatur ſum<g ref="char:EOLhyphen"/>mus, qui a nullo ducit originem, cum ab eo ducant Perſonae caeterae hoc ſenſu ſolum Pa<g ref="char:EOLhyphen"/>arem ſummum eſſe Deum non negamus, hoc eſt primum principium, &amp; ſupremum ad quod revocantur omnia, — ſin ille ſummus appellatur Deus cujus natura &amp; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> eſt ſumma Deitas, ſive ab nullo altero, ſive ab altero communicata, hac ratione non minus Filius, ac Spiritus Sanctus ſummus eſt De<g ref="char:EOLhyphen"/>us, quam Pater tametſi diverſo modo Deita<g ref="char:EOLhyphen"/>tem obtineant. <hi>Petav. Dogm. Theolog. de Trin L. 3. C. 1.</hi>
+               </note> 
+               <hi>Petavius</hi> expreſly al<g ref="char:EOLhyphen"/>lows the ambiguity or equivocal meaning of the word God, or chief and higheſt God in the very ſenſe before-men<g ref="char:EOLhyphen"/>tion'd; and I know none, but <hi>Sabellians</hi> and <hi>Socinians,</hi> can have rea<g ref="char:EOLhyphen"/>ſon to diſlike it, becauſe off that terrible Objection of theirs againſt the Trinity, that God, and Divine Being, or Perſon, are convertible and equipollent, and there<g ref="char:EOLhyphen"/>fore if there be three Divine Perſons and Beings, there muſt be three Gods, where<g ref="char:EOLhyphen"/>as in one, <hi>i. e.</hi> the higheſt ſenſe, (of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,) the word God is only convertible with, and equipollent to God the Father, and in the ſenſe which is given of it by
+<pb n="19" facs="tcp:94532:20"/>ſeveral<note n="†" place="margin">Mahometes Azoar <hi>11.</hi> Al<g ref="char:EOLhyphen"/>corani, dic ille Deum unum eſſe, qui nec genuit, nec generatus eſt.—Deum eſſe ens neceſſario exiſtens, cujus eſſe impoſſibile eſt ut ſit ab alio, <hi>Avicenna.</hi> Nos voce Dei intelligere ens illud quod caete<g ref="char:EOLhyphen"/>ris omnibus ex<g ref="char:EOLhyphen"/>iſtentiam dedit, ipſum ſuam a nullo accepit. <hi>Cler. Pneuma<g ref="char:EOLhyphen"/>tolog.</hi> c. <hi>2.</hi>
+               </note>, belongs only to him; and <hi>Melancthon</hi> therefore wiſely and deſigned<g ref="char:EOLhyphen"/>ly changes the definition of God for the like reaſon<note n="*" place="margin">Ut autem de<g ref="char:EOLhyphen"/>ſcriptionem ali<g ref="char:EOLhyphen"/>quam Dei tene<g ref="char:EOLhyphen"/>amus, conſeram duas, alteram mutilam Plato<g ref="char:EOLhyphen"/>nis, alteram in<g ref="char:EOLhyphen"/>tegram quae in Eccleſiâ tradi<g ref="char:EOLhyphen"/>ta eſt, &amp; ex baptiſmi verbis dicitur. Plato<g ref="char:EOLhyphen"/>nica haec eſt, Deus eſt mens aeterna, — ſic igitur haec alte<g ref="char:EOLhyphen"/>ra deſcriptio, Deus eſt Eſſen<g ref="char:EOLhyphen"/>tia ſpiritualis, intelligens, ae<g ref="char:EOLhyphen"/>terna, <hi>Me<g ref="char:EOLhyphen"/>lancthon.</hi>
+               </note> .</p>
+            <p>I hope upon the reading of this, both my offended Brethren (tho' I think I am the offended Brother, I am ſure I am the Iujured one, and if the Scandal be ſo general according to your Letter, the Injury is the greater) will be ſenſi<g ref="char:EOLhyphen"/>ble of their great Miſtake, and of their ungrounded Charge and Accuſation a<g ref="char:EOLhyphen"/>gainſt me, and will recollect from whence it aroſe, from miſunderſtanding and miſapplying the word <hi>Equivocal,</hi> and will therefore think themſelves bound both in Honour and Conſcience to make a proper Reparation and Satisfaction, to own their Miſtake, and beg my Par<g ref="char:EOLhyphen"/>don. I hope alſo your Lordſhip, and the reſt of my Brethren, will think this reaſonable, and perſwade them to it, elſe I muſt appeal to the World, and publiſh this my Vindication as well as my Sermon; and if the doing this oc<g ref="char:EOLhyphen"/>caſion any further Quarrel and Diſturb<g ref="char:EOLhyphen"/>ance,
+<pb n="20" facs="tcp:94532:21"/>they who are the true cauſe of it muſt anſwer for it both to God and Man, and otherwiſe I ſhall think it a deſign to blow up a Contention very unſeaſonably at this time, and to breed a Quarrel among our ſelves, and then I can gueſs at the Secret which lyes at the bottom, and in Cyphers 'tis only <hi>HC.</hi> and <hi>JB.</hi>
+            </p>
+            <p>I uſed all poſſible Caution in my Ser<g ref="char:EOLhyphen"/>mon to prevent all this, and oppoſed no body but the Deiſts and Socinians; and 'tis hard when we are defending the common Cauſe and Faith of Chri<g ref="char:EOLhyphen"/>ſtianity, againſt thoſe that our Brethren and Confederates ſhould out of Pique and Prejudice ſtrike in with the publick Enemy, and help to do their work for them.</p>
+            <p>I uſed no other Terms throughout all my Sermon in ſpeaking of the Di<g ref="char:EOLhyphen"/>vine Perſons and Bleſſed Trinity, but thoſe uſed commonly by the Church, according to the King's Directions; and I am ſure my Doctrine is entirely agree<g ref="char:EOLhyphen"/>able to that of the Primitive Church,
+<pb n="21" facs="tcp:94532:21"/>ſatisfied in it, as in Chriſtianity; for 'tis Chriſtianity as diſtinct from Natural Re<g ref="char:EOLhyphen"/>ligion, and I could dye, and ſuffer Martyrdom for it: If all the Pains I have taken to underſtand and defend it, meet with no other Reward here but Scandal and Calumny, Noiſe, Cla<g ref="char:EOLhyphen"/>mour and Trouble, I doubt not but the great God, and my Bleſſed Saviour, and their Holy Spirit, whoſe Glory and Honour I have ſincerely aimed at, whoſe Faith and Religion I have en<g ref="char:EOLhyphen"/>deavoured to defend, will ſupport me comfortably at preſent, and recompenſe me ſufficiently hereafter.</p>
+            <p n="3">3. As to the other thing charged or hinted, about Specifical and Numerical Eſſence, two of my Brethren who ſaw the Paper could not well remember any thing about it, nor can I gueſs, and imagine; for the words were but juſt named, with an — <hi>hence the diſtin<g ref="char:EOLhyphen"/>ction of a Specifical and Numerical Eſſence</hi> — I aſſerted not either, nor do underſtand any great difference between 'em, nor think particular Eſſence to be any thing
+<note place="margin">
+                  <pb facs="tcp:94532:22"/>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Baſil. Epiſt. 369.</hi>
+                  </p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Id. Epiſt. 43</hi>
+                  </p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Damaſc.</hi> l. <hi>3.</hi> c. <hi>6.</hi>
+                  </p>
+                  <p>Eſſentiae in Univerſalibus quidem eſſe poſſunt, in ſolis vero individuis &amp; particularibus ſubſtant. <hi>Boeth.</hi> de duobus naturis &amp; unâ Perſonâ Chriſti.</p>
+                  <p>Uſiam commune aliquid eſſe dicunt Antiqui, Hypoſtaſin particulare quiddam &amp; individuum. <hi>Petav.</hi> Dogm. Theol. de Trin. <hi>l. 4. c. 7.</hi>
+                  </p>
+                  <p>Eſſentia quae definitur id per quod res eſt id quod eſt, eſt idaea abſtracta quae ſolâ ratione di<g ref="char:EOLhyphen"/>ſtinguitur ab ente, neque enim ens eſt in eſſen<g ref="char:EOLhyphen"/>tia ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Eſſentia in ente, tanquam ſubjecto neque poſſunt ſeparari. <hi>Cler. Ontolog.</hi> c. <hi>4.</hi>
+                  </p>
+                  <p>Aut falſum aut ſaltem temerarium eſt quic<g ref="char:EOLhyphen"/>quid affirmatur de Eſſentijs apud Scholaſticos, niſi de Idealibus eſſentijs quas tantum in animo habent, &amp; quos ipſi efformarunt, confunduntque cum realibus intelligatur. <hi>Cler. Log.</hi> P. <hi>1.</hi> p. <hi>34.</hi>
+                  </p>
+                  <p>Potius Eſſentia in Perſonis tribus ſubſiſtere dicenda eſt quam Tres Perſonae in Unâ Eſſen<g ref="char:EOLhyphen"/>tiâ. <hi>Chamier.</hi> de Trin.</p>
+               </note>
+               <pb n="22" facs="tcp:94532:22"/>diſtinct from particular Beings (a); but I was not then to teach my Auditors Metaphyſicks, nor am now my Breth<g ref="char:EOLhyphen"/>ren, but I remember I expreſly affirm'd in my Sermon, that there was no Mul<g ref="char:EOLhyphen"/>tiplication of Eſſence in the ſeveral Di<g ref="char:EOLhyphen"/>vine Perſons, which I hope was very Orthodox, and ſo was every thing I ſaid.</p>
+            <p>After all this long Scribble, which has tired me, and which I had not time to ſhorten, and for which I begg your Lordſhips Patience and Pardon, I have but one thing more to anſwer, Why I did not carry my Notes to my two offended Brethren, as was deſired by the Letter? To which I Reply, That I had done that before, and read thoſe Paſſages they excepted againſt to both of them, according to my Promiſe in Chapter: And I hope your Lord<g ref="char:EOLhyphen"/>ſhip, upon ſecond Thoughts, will not think fit, that one of equal Character to them in other things, and not the leſs I hope as the King's Chaplain, ſhould be ſo contemptibly treated, as
+<pb n="23" facs="tcp:94532:23"/>to be Obliged to go backwards and forwards with his Sermon, and to wait upon his Accuſers at their Houſes with his Notes, as often as they ſhall pleaſe to call for them, only to pick out perhaps if they can, ſome New Cavils againſt them: But in truth I could not do this, had I been never ſo humble and willing, for my Notes are looſe and mangled at the Preſs, and from thence they and the World may I hope ex<g ref="char:EOLhyphen"/>pect a Copy of them very ſhortly.</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>I ſend you the ſame Letter in print, only a little enlarged, which I ſent you ſome few Months ago in Writing, be<g ref="char:EOLhyphen"/>ing of the ſame Opinion with your Lord<g ref="char:EOLhyphen"/>ſhip, that ſince this has made ſo much Talk and Noiſe, that ſomething ought to be made publick concerning it; and I doubt not but this will give full Satisfaction to all Learned and Unpre<g ref="char:EOLhyphen"/>judiced perſons, who have any true Knowledge and Underſtanding in that Controverſie, who will ſee by the
+<pb n="24" facs="tcp:94532:23"/>Authorities and Quotations I have uſed, not only a ſufficient Defence of my Do<g ref="char:EOLhyphen"/>ctrine, and a full Agreement in it of the beſt Divines, but ſuch a ſtate of that Controverſy againſt all the Adver<g ref="char:EOLhyphen"/>ſaries of the Bleſſed Trinity as may give an Anſwer to their Objections againſt it, and help others rightly to underſtand it. I have choſen to ſpeak out the Truth from the Mouths of others of unqueſtioned Credit, rather than my own, that I might not be thought to be ſingular, and becauſe 'tis very diffi<g ref="char:EOLhyphen"/>cult and dangerous ſometimes, as one long agoe obſerved<note n="*" place="margin">Vera de Deo, dicere admo<g ref="char:EOLhyphen"/>dum periculum ſit. <hi>Ruffin in Symbol.</hi>
+                     </note> . To ſpeak truth of ſuch high matters, No Man does more fully believe the true Divinity of the Son and Holy Ghoſt than my ſelf, as is well known to all that know me, and appears by ſeveral Sermons preach<g ref="char:EOLhyphen"/>ed at <hi>W</hi>— and other places, and for one of them not long agoe Tritheiſm was laid to my charge, (as that and Po<g ref="char:EOLhyphen"/>lytheiſm was of old to all the Ortho<g ref="char:EOLhyphen"/>dox Believers of a Trinity<note n="(a)" place="margin">
+                        <p>
+                           <hi>So the</hi> Jews <hi>and</hi> Gen<g ref="char:EOLhyphen"/>tiles, <hi>as appears by</hi> Athanaſius,
+<pb facs="tcp:94532:24"/>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.<note place="margin">Athanaſ. con<g ref="char:EOLhyphen"/>tra Arrian Orat. 4. Id. contra Sa<g ref="char:EOLhyphen"/>bel Gregales. <hi>Vide</hi> Gene<g ref="char:EOLhyphen"/>brardi Re<g ref="char:EOLhyphen"/>ſponſ. ad Jo<g ref="char:EOLhyphen"/>ſeph. Albo &amp; David Kimchi.</note>
+                        </p>
+                        <p>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</p>
+                        <p>Thus <hi>Lucian</hi> in his Dialogue, <hi>Philopatris:</hi> And <hi>Celſus apud Originem contra Celſ.</hi> l. 8.</p>
+                        <p>
+                           <hi>So did the</hi> Sabellians, <hi>who laid the like Charge againſt</hi> Dionyſius <hi>Biſhop of</hi> Alexandria, <hi>when he had condemned</hi> Sabellius, <hi>from which Charge he was ac<g ref="char:EOLhyphen"/>quitted in a Synod at</hi> Rome, <hi>Anno 263.</hi>
+                        </p>
+                        <p>Itaque duos &amp; tres jam jactitant à nobis praedicari ſe vero Unius Dei cultores prae<g ref="char:EOLhyphen"/>ſumunt.<note place="margin">Tertullian adv. Prax.</note>
+                        </p>
+                        <p>Vide <hi>Euſeb.</hi> contra <hi>Marcellum</hi> &amp; Theo<g ref="char:EOLhyphen"/>log. Eccleſ.</p>
+                        <p>
+                           <hi>So</hi> Paulus Samoſatenus,<note place="margin">Concilla Lab<g ref="char:EOLhyphen"/>be. <hi>T.</hi> 1. <hi>p.</hi> 875.</note> 
+                           <hi>as appears by his Queſtions to</hi> Dionyſius <hi>of</hi> Alexandria, <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>, <hi>&amp;c. —</hi> Dionyſius <hi>his Anſwer,</hi> 
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.<note place="margin">Ibid.</note> 
+                           <hi>And the Synodic Epiſtle of the Council of</hi> Antioch <hi>to him,</hi> 
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</p>
+                        <p>
+                           <hi>So</hi> Photinus, <note place="margin">Facund. Her<g ref="char:EOLhyphen"/>mianenſ. <hi>l.</hi> 4.</note> 
+                           <hi>as appears by</hi> Julian<hi>'s Letter to him.</hi>
+                        </p>
+                        <p>
+                           <hi>So the</hi> Arrians, <hi>as appears in many places of</hi> Athanaſius <hi>and others againſt them,</hi>
+                           <note place="margin">Athanaſ. con<g ref="char:EOLhyphen"/>tra Arrian. Orat. 5.</note> 
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</p>
+                        <p>
+                           <pb facs="tcp:94532:24"/>
+                           <hi>So they and the</hi> Macedonians,<note place="margin">Baſil <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap> 29. Greg. Nyſſen. Epiſt. ad Ab<g ref="char:EOLhyphen"/>lab. Greg. Naz. Orat. 23. Centur. Mag<g ref="char:EOLhyphen"/>deburg. 7. ex Alcoranl Azo<g ref="char:EOLhyphen"/>ara 12. Cantacuzen. Orat. 3. apud Gualter. Al<g ref="char:EOLhyphen"/>cor Interpret.</note> 
+                           <hi>as appears by St.</hi> Baſil<hi>'s parti<g ref="char:EOLhyphen"/>cular Diſcourſe,</hi> 
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>, <hi>and</hi> Gregory Nyſſens <hi>Epiſtle</hi> ad Ablabium, <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>, <hi>and</hi> Gregory Nazianzens <hi>often anſwering the Charge of</hi> Tri<g ref="char:EOLhyphen"/>theiſm, <hi>and ſaying,</hi> 
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</p>
+                        <p>So the <hi>Mahomitans,</hi> out of whoſe Alcoran theſe words are alledged by the <hi>Centuriat. Magdeburg.</hi> Omnes quidem dicentes Chriſtum Jeſum, Mariae Filium Deum exiſere, mendaces reperti ſunt, cum Chriſtus ipſe dixerit, in Do<g ref="char:EOLhyphen"/>minum Deum meum atque veſtrum credité. — Sunt iterum increduli affirmantes Deos tres eſſe, quia non eſt niſi Deus Unus. <hi>And</hi> Cantacuze<g ref="char:EOLhyphen"/>nus <hi>in his Oration againſt</hi> Mahomet, <hi>ſays,</hi> Nec Chriſtum Deum adorare confeſſus eſt, ne duos Deos adorare deprehenderetur.</p>
+                        <p>
+                           <hi>The</hi> Socinians <hi>'tis notorious lay this charge of Tri<g ref="char:EOLhyphen"/>theiſm againſt the bleſſed Trinity in all their Wri<g ref="char:EOLhyphen"/>tings.</hi>
+                        </p>
+                     </note>
+                     <pb n="24" facs="tcp:94532:23"/>in a rude and inſolent Preface, which re<g ref="char:EOLhyphen"/>flected
+<pb n="25" facs="tcp:94532:25"/>not only upon me and others, but upon all the Biſhops of <hi>England,</hi> and was thought by them to deſerve Cenſure: This was only for aſ<g ref="char:EOLhyphen"/>ſerting with the Ancients and beſt Moderns, the Diſtinct Being and <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> of the Son, and of the Holy Ghoſt<note n="(b)" place="margin">
+                        <pb facs="tcp:94532:25"/>
+                        <p>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.<note place="margin">Synod Epiſt. Concil. Con<g ref="char:EOLhyphen"/>ſtantinop. ad Damaſum. Baſil Epiſt. ad Caeſar. Origen contra Celſ. <hi>c.</hi> 8. Athanaſ. con<g ref="char:EOLhyphen"/>tra Sabell. Baſil in Prin<g ref="char:EOLhyphen"/>cip. Evan. Joan. Athanaſ. con<g ref="char:EOLhyphen"/>tra Sabel. Gregal. Baſil Epiſt. ad Caeſarienſ.</note>
+                        </p>
+                        <p>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</p>
+                        <p>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</p>
+                        <p>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</p>
+                        <p>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap> (Joan. <hi>3.</hi>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>) <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. —</p>
+                        <p>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</p>
+                        <p>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.<note place="margin">Id. contra Sa<g ref="char:EOLhyphen"/>bel &amp; Art.</note>
+                        </p>
+                        <p>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.<note place="margin">Id. Epiſt. ad Caeſar.</note>
+                        </p>
+                        <p>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.<note place="margin">Alexandr. Epiſt. ad Alex<g ref="char:EOLhyphen"/>andr. Theodo<g ref="char:EOLhyphen"/>ret. <hi>E. H. l.</hi> 1.</note>
+                        </p>
+                        <p>
+                           <hi>How different is this from what we find afterwards in the</hi> Lateran Council, <hi>which in direct oppoſition to the beſt Antiquity, determined as we have it in</hi> Greek,<note place="margin">Concil. Late<g ref="char:EOLhyphen"/>ran. General, 4 tum Capi<g ref="char:EOLhyphen"/>tul. 2. Concil. Labbè.</note> 
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. <hi>When in thoſe Ignorant and bar<g ref="char:EOLhyphen"/>barous Ages the true Notion was altered by</hi>Roman <hi>Power and Scholaſtic Subtlety, which was preſerved but a little before in</hi> Damaſcene, Scotus Erigena, <hi>and in a Synod that then decreed the Three Perſons to be</hi> Tres res diſtinctas. <hi>Oto Friſingen.</hi> L. <hi>1.</hi> C. <hi>47.</hi>
+                        </p>
+                        <p>Scriptura certé nominat Patrem,<note place="margin">Zanchius de tribus Elohim. <hi>C.</hi> 2.</note> Filium &amp; Spi<g ref="char:EOLhyphen"/>ritum Sanctum, ut Res inter ſe diſtinctas, Indi<g ref="char:EOLhyphen"/>viduas,
+<pb facs="tcp:94532:26"/>
+Subſiſtentes, Intelligentes Volentes. Ne quod triplici Nomine dicitur rem unam eſſe pute<g ref="char:EOLhyphen"/>mus. <hi>Ibid.</hi> de Decret Alexand.</p>
+                        <p>— Hos tres eſſe tres res — Perſonae ſeu res per ſe ſubſiſtentes. <hi>Id.</hi>
+                        </p>
+                        <p>
+                           <g ref="char:V">Ʋ</g>naquaeque perſona eſt aliqua res ſimplicitèr &amp; abſoluta — ſunt tres res — quia per hanc Nume<g ref="char:EOLhyphen"/>rationem ſolum indicatur abſoluta &amp; realis diſtin<g ref="char:EOLhyphen"/>ctio inter illas. <hi>Suarez</hi> de Trin. <hi>L. 3. C. 6.</hi>
+                        </p>
+                        <p>Nihilominus ſimpliciter verum cenſeo tres Per<g ref="char:EOLhyphen"/>ſonas eſſe tria Entia Realia. <hi>Ib.</hi>
+                        </p>
+                        <p>
+                           <hi>The Criticks, ſuch as</hi> Valla, <hi>had no Cauſe to find fault with</hi> Boethius, <hi>for applying the Notion of Perſon to an Intelligent Being ſubſiſting by it ſelf, therefore I cannot but wonder at the Niceneſs of ſome late Men. — Themſelves confeſs</hi> Boethius <hi>his Definition of a Perſon (</hi>Subſtantia Rationalis indivi<g ref="char:EOLhyphen"/>dua, <hi>&amp;c.) to be true enough, but they ſay it belongs to the Creatures, and not to God, for it would make three Gods. — And he plainly allows three Per<g ref="char:EOLhyphen"/>ſons to be three Individual Beings.</hi>Biſhop <hi>Stilling<g ref="char:EOLhyphen"/>ſleet</hi>'s Dialogue concerning Trinity and Tranſubſtant.</p>
+                        <p>
+                           <hi>This great Man, when his Adverſary had told him, that his defending the Doctrine of the Trinity by rea<g ref="char:EOLhyphen"/>ſon, ſhowed he was a bold Man, and would venture further than Wiſer Men; thus Anſwers,</hi> (And I make bold to vindicate my ſelf with his Words) <hi>It may be others have not the Leiſure or Curioſity to exa<g ref="char:EOLhyphen"/>mine a Myſtery believed to be ſo much out of the reach of our Underſtanding, and have confounded themſelves and others ſo much with School-Terms, as to leave the matter rather more obſcure than it was before, but I ſhall endeavour to make things as clear as they will bear.</hi>
+                        </p>
+                        <p>Advertiſement.</p>
+                        <p>THeſe Papers were Written; and Printed moſt part of them, before the Biſhop of <hi>Worceſters</hi> late Book.</p>
+                     </note>
+                     <pb n="25" facs="tcp:94532:25"/>, and that they were Proper and Real Perſons, and not only Modes, Reſpects, Characters, Offices, Names, <hi>&amp;c.</hi> of one Di<g ref="char:EOLhyphen"/>vine Being or Perſon. Now a very different and even contrary Charges comes upon me, from the ſame quarter, and is raiſed by the ſame Spi<g ref="char:EOLhyphen"/>rit, which like the Teſtimony of Falſe Witneſſes betrays and diſcovers its own Untruth by its own Contradictions. I proteſt by all that's Sa<g ref="char:EOLhyphen"/>cred, I never ſaid the Words charged upon me, and they are only a falſe Inference of their own, from their miſtaking and miſunderſtanding of my Words, and not rightly underſtanding the Controverſie, as I hope will fully appear to all Learned and Impartial Readers of this Letter, and eſpecially to your Lordſhip, to whoſe Can<g ref="char:EOLhyphen"/>dor and Judgment I commit it, hoping you will pardon ſome things writ in great haſt, and ſome little heat upon ſuch a Provocation. If my Ac<g ref="char:EOLhyphen"/>cuſers be not ſatisfied by it, I challenge them with all their mighty Zeal and Knowledge both, fairly to reply to it, and to the Authorities here produced. I am your Lordſhips<note place="bottom">
+                        <p>Advertiſement.</p>
+                        <p>THe Errata's of the Preſs are too many to be particularized, eſpecially in the Greek, the Learned and Candid Reader will eaſily ſee and Correct them.</p>
+                     </note>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>Moſt Humble and Obedient Servant,</hi> W. Payne.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <div type="postscript">
+               <pb n="1" facs="tcp:94532:26"/>
+               <head>Poſtſcript.</head>
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>SInce the Printing this Letter in Vindication of my Sermon, your Lordſhip and my Brethren in a full and late Chapter, have upon a freſh Debate and further Examination of the matter, been pleaſed to own your ſelves ſatisfi<g ref="char:EOLhyphen"/>ed about it; ſo that were it not as Ne<g ref="char:EOLhyphen"/>ceſſary, both upon Publick and Private Reaſons, to ſatisfie the World too, I could almoſt have wiſht this Letter had not been printed at all, it being writ haſtily in a few dayes, and being the firſt and free running of my Thoughts, without any Laboured or Artificial Com<g ref="char:EOLhyphen"/>poſure; to which I added very little, but only ſome Authorities to be my Vouchers and Compurgators for ſome Words that were not underſtood, and therefore odd and offenſive to ſome, but very neceſſa<g ref="char:EOLhyphen"/>ry
+<pb n="2" facs="tcp:94532:27"/>and very uſual with the beſt Writers againſt Socinianiſm, when they are anſwer<g ref="char:EOLhyphen"/>ing their ſubtileſt Objections, and like Fencers, keeping their Eye upon their Ad<g ref="char:EOLhyphen"/>verſaries, and avoiding all their Thruſts. However, I could now have wiſht that ſome few things, ſavouring a little Re<g ref="char:EOLhyphen"/>ſentment, which was excuſable at that time I hope both to me and others, when we did not ſo well underſtand one another, had been left out: For I am now better ſatisfied, that there was nothing of that perſonal Prejudice and ill Will, or un<g ref="char:EOLhyphen"/>kind Deſign from any, upon ſome other accounts, which I ſuſpected to have been in it; but that it all aroſe from pure miſtake, and miſunderſtanding ſome ſome few Words and Expreſſions in my Sermon, which were thought to have another meaning than they really had; and this may eaſily happen upon a tranſient hearing or reading a Diſcourſe, upon ſo Nice a Subject as the Trinity, which I could not avoid on that day, and which I made as plain and uſeful as I could, and only cryptically and in
+<pb n="3" facs="tcp:94532:27"/>a few words took off one great and obvious Difficulty and Objection, that of Three Gods, and One God, which is always thrown in the way, and is the mighty Stumbling-block in that Article of our Chriſtian Faith, which others have been heaving at with a great ma<g ref="char:EOLhyphen"/>ny Scolaſtick Levers, and I thought one word would remove it, and take off all the objected Contradiction. The miſunderſtanding the word <hi>Equivocal,</hi> uſed upon that Occaſion, was the chief, if not the only reaſon of my Worthy Brothers concerning himſelf in the matter. He who was the firſt Oc<g ref="char:EOLhyphen"/>caſion of all this, has abundantly con<g ref="char:EOLhyphen"/>vinced me, that it was no other miſun<g ref="char:EOLhyphen"/>derſtanding between us, both by his Proteſtations and Civil Treatment, and genteel begging my Pardon for it; and I do now begg his, and any other of my Brethrens, for any thing that may ſeem in this Letter to be any ways re<g ref="char:EOLhyphen"/>flecting upon them, and eſpecially of Dr. <hi>S</hi>—, who hath given too many Inſtances of his Learning to be denyed,
+<pb n="4" facs="tcp:94532:28"/>and a greater than I expected in this matter of his Temper. I have no need, I am ſure, to do this to your Lordſhip, for whom I have too much Reſpect and Veneration to let any thing drop from my Pen or Tongue, ſo unagreeable to my Mind and Thoughts: Every one ſees ſo much of the Gentleman as well as the Scholar, ſhining through your Sacred Character, and ſo much Good Breeding and Civility joined with your Paternal Wiſdom and Gravity, that your Excellent Temper will no more let you do an il-natured and unbecoming thing, than your Admirable Pen, which has been a great while the Standard of <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Eloquence, will let you write an unfit one. Your Zeal for the Catholick Faith, and your particular Duty made it fit and Neceſſary for you to take Notice of ſuch a Charge as was brought you againſt my Sermon: I muſt have blamed your Lordſhip, and my Brethren as much as others, if you had not done it; and be ſo far from taking it ill, that I muſt thank you for it, for the right
+<pb n="5" facs="tcp:94532:28"/>you have herehy done to the Faith and to me both: Like a true Friend of the King and Government, if taken up by miſtake, thro' the haſty Zeal of an officious Conſtable or Informer, when he has ſhown the miſtake, and clear'd himſelf to the Magiſtrates upon the ſtricteſt enquiry, he will rather com<g ref="char:EOLhyphen"/>mend and thank 'em for their Zeal and Care of the Publick, than be any ways angry with them for the little trouble and inconvenience that was accidentally given to himſelf in ſerving ſo good an end, which he ſo much likes and pre<g ref="char:EOLhyphen"/>fers to any thing private. I would willingly ſacrifice my own particular Credit, and all the worldly Intereſts I have, to the Cauſe of Chriſtianity in general, or to that Fundamental part of it, the Doctrine of the Trinity; with<g ref="char:EOLhyphen"/>out which Chriſtianity will, in my Opi<g ref="char:EOLhyphen"/>nion, loſe its peculiar Scheme and Con<g ref="char:EOLhyphen"/>ſtitution, and its great and auguſt Cha<g ref="char:EOLhyphen"/>racter; and therefore I have endeavour<g ref="char:EOLhyphen"/>ed, the beſt way I can, to defend this againſt its Adverſaries, and to repreſent
+<pb n="6" facs="tcp:94532:29"/>it to its Friends in the beſt light, that of the Scriptures and Antiquity, in which it appears much clearer than in thoſe Scholaſtick Diſputes and Explications which have only clouded and obſcured it, and turn'd plain Chriſtianity into a Metaphyſical Subtlety. But when thoſe who defend and maintain the Faith, are brought under a Charge of undermin<g ref="char:EOLhyphen"/>ing and betraying it, this is not only a particular Injury to themſelves, which it is very hard to lye under; and no Man, as one ſays, ought to be patient under the Suſpicion of Hereſie; but it is a great injury and diſſervice to the Faith it ſelf, by ſuppoſing its pretended and avowed Friends to be its ſecret Enemies; and that upon a free enquiry and examining into it, they ſee reaſon to be ſo; and thereby rendring the very Doctrine ſu<g ref="char:EOLhyphen"/>ſpicious and queſtionable, as well as in<g ref="char:EOLhyphen"/>creaſing the Number, and adding to the Party and Intereſt of its profeſt Adver<g ref="char:EOLhyphen"/>ſaries. The charging any ſuch Suſpici<g ref="char:EOLhyphen"/>on of Hereſie upon me, and ſome others, and eſpecially of <hi>Socinianiſm,</hi> will look
+<pb n="7" facs="tcp:94532:29"/>as ridiculous and incredible to thoſe who know us, as Sir <hi>John Fenwick</hi>'s charging ſome of the known Friends and Aſſert<g ref="char:EOLhyphen"/>ors of the Government with being in the Plot, and inclined to Jacobitiſm: I have given ſo much Evidence to the con<g ref="char:EOLhyphen"/>trary in all my Diſcourſes and Sermons, that if any think they might have rea<g ref="char:EOLhyphen"/>ſon to do this for a few miſtaken Words and Expreſſions, which they do not like or underſtand, others may upon the ſame account charge me with Popery too; tho' I have writ ſo many Treatiſes a<g ref="char:EOLhyphen"/>gainſt it, becauſe I followed not exact<g ref="char:EOLhyphen"/>actly their Words and Phraſes, or their Method of Writing and Thinking, in managing thoſe Subjects, but either grant<g ref="char:EOLhyphen"/>ed too much to my Adverſaries, or aſ<g ref="char:EOLhyphen"/>ſerted ſomething that they think odd and ſuſpicious, and looks to them like a Po<g ref="char:EOLhyphen"/>piſh Principle. As when in a Diſcourſe on the Sacrifice of the Maſs, I own the Euchariſt to be a Sacrifice in ſome ſenſe, and in ſome ſenſe Propitiatory too, from hence there may be as good ground to charge Popery upon me, as any thing
+<pb n="8" facs="tcp:94532:30"/>Heretical or Socinian, upon the miſtaken and miſunderſtood Words of my Sermon, when the whole Scope, Deſign and Drift of it, was to the contrary.</p>
+               <p>Perverſe and Angry Men, tyed up to their own Models and narrow Syſtems, might have made as great a Work, and ſtirred up as great Suſpitions, Conteſts and Diſſentions among our ſelves, a few Years ago, about ſeveral Points relating to thoſe Popiſh Controverſies, as about the Real Preſence, Juſtification, Good Works, and the like, as have been more lately, and very unhappily raiſed about the Trinity, and have given as great an advantage to the common Enemy by ſo doing: And no doubt the one would have took hold of it, and improved it as much againſt the common Cauſe then, as the others have done ſince. But tho' I think it would have been very impru<g ref="char:EOLhyphen"/>dent, and very dangerous, both then and now, to ſtop the Controverſie, and im<g ref="char:EOLhyphen"/>poſe ſilence upon this account, and let our Adverſaries write on and triumph without Anſwers, and ſo to loſe the
+<pb n="9" facs="tcp:94532:30"/>Truth for fear of loſing Peace, yet com<g ref="char:EOLhyphen"/>mon Prudence and Chriſtian Charity, and a hearty concern for the common Cauſe, ſhould make all Writers agree in one Caſe as well as the other, notwithſtand<g ref="char:EOLhyphen"/>ing ſome little difference of Thoughts and Expreſſions, and not break out into a Civil War among our ſelves, while we are oppoſing a publick Enemy, when in the main we do agree in the ſame Do<g ref="char:EOLhyphen"/>ctrine, the ſame Article and Confeſſion, as 'tis expreſt by our Church.</p>
+               <p>The School-men and Divines of the Church of <hi>Rome</hi> differ very much among themſelves about theſe very matters. <hi>Pe<g ref="char:EOLhyphen"/>ter Lombard</hi> and <hi>Richardus de Sancto Vi<g ref="char:EOLhyphen"/>ctore</hi> about the Definition of a Perſon, and Eſſence generating Eſſence; <hi>Duran<g ref="char:EOLhyphen"/>dus, Scotus, Ocham</hi> and <hi>Biel</hi> about the Di<g ref="char:EOLhyphen"/>vine Unity, and whether the diſtinction in the Deity be real and Formal, or Mo<g ref="char:EOLhyphen"/>dal and Virtual. The <hi>Scotiſts</hi> and <hi>Tho<g ref="char:EOLhyphen"/>miſts</hi> have their known Differences and Parties about thoſe and other things; <hi>Co<g ref="char:EOLhyphen"/>preolus</hi> and <hi>Aureolus</hi> differ throughout; ſo do the Jeſuites and Dominicans, <hi>Molina</hi>
+                  <pb n="10" facs="tcp:94532:31"/>with <hi>Thomas,</hi> and <hi>Cajetan, Valentia, Suarez</hi> and <hi>Vaſquez,</hi> tho' all Jeſuites, yet diſpute fiercely with one another; the two lat<g ref="char:EOLhyphen"/>ter eſpecially, about the famous Queſti<g ref="char:EOLhyphen"/>on of a common Subſiſtence in the Tri<g ref="char:EOLhyphen"/>nity, whilſt <hi>Arriba</hi> is very zealous againſt them all, for allowing <hi>Aliquid Relativum</hi> as well as <hi>Abſolutum</hi> in the Trinity. And to name no others, <hi>Tanner, Ruiz</hi> and <hi>Ar<g ref="char:EOLhyphen"/>riaga</hi> oppoſe one another, and thoſe that have gone before them, in ſeveral high Points, as do indeed all their Modern Wri<g ref="char:EOLhyphen"/>ters, taking the part ſometimes of <hi>Scotus,</hi> and ſometimes of <hi>Thomas,</hi> and ſometimes differing from both, and always from thoſe that wrote a little before them: They diſpute Problematically, and hold different Opinions concerning theſe Trini<g ref="char:EOLhyphen"/>tarian Points, as much as other Theological Queſtions; and particularly <hi>Ruiz</hi>
+                  <note n="*" place="margin">Diſp. <hi>22.</hi> Sect. <hi>1.</hi>
+                  </note> pro<g ref="char:EOLhyphen"/>poſes an Explication of the Trinity, diffe<g ref="char:EOLhyphen"/>rent from the common Soholaſtic one; making the Three Perſons together God adequately, and each ſingle Perſon God inadequately: Which tho' he aſſerts not, yet by his Authorities out of the Fathers
+<pb n="11" facs="tcp:94532:31"/>we may ſee he Favours, whilſt all of them ſtill agree in the common Faith of the Article, as 'tis determined and ex<g ref="char:EOLhyphen"/>preſt in the words of their Church. So long as they do this, none of their Infal<g ref="char:EOLhyphen"/>lible Popes, or wiſe Biſhops, have thought fit to interpoſe by their Authority, or to determine on one ſide or other, or to im<g ref="char:EOLhyphen"/>poſe ſilence upon all, notwithſtanding the mighy plenitude of their Eccleſiaſti<g ref="char:EOLhyphen"/>cal Authority, and the wretched Slave<g ref="char:EOLhyphen"/>ry which hath been complained of un<g ref="char:EOLhyphen"/>der it, even the worſt of Slaveries to rational Creatures, that of their Minds and Thoughts; Notwithſtanding that, it ſeems, their own Members, and their Learned Men have a free Liberty of venting their private Thoughts and diffe<g ref="char:EOLhyphen"/>rent Sentiments, even in thoſe high mat<g ref="char:EOLhyphen"/>ters, ſo long as they conſent and ſub<g ref="char:EOLhyphen"/>ſcribe to the general Doctrine of their Church. Nay, which is more ſtrange, and more to be wondered at, they have never cenſured, that I know of, thoſe known and exceptionable Paſſages and bold Aſſertions in <hi>Durandus, Aliaco, Eraſ<g ref="char:EOLhyphen"/>mus,
+<pb n="12" facs="tcp:94532:32"/>Genebrard,</hi> and others, of Three Gods in a Perſonal ſenſe, and of <hi>Cajetan, Mo<g ref="char:EOLhyphen"/>lina, Javellus,</hi> and abundance of their celebrated Writers, holding Three Eter<g ref="char:EOLhyphen"/>nals and Omnipotents, and Interpreting the <hi>Athanaſian Creed</hi> ſo as to make thoſe Adjectives ſignifie only Subſtantively and Eſſentially. While they allow this Free<g ref="char:EOLhyphen"/>dom, Liberty and Latitude to their Friends and to one another, they give no quar<g ref="char:EOLhyphen"/>ter to their Adverſaries out of their Com<g ref="char:EOLhyphen"/>munion, but purſue them, and particu<g ref="char:EOLhyphen"/>larly Mr. <hi>Calvin,</hi> with the heavieſt Char<g ref="char:EOLhyphen"/>ges of Blaſphemy and Tritheiſm, Nay, even of Atheiſm, for the leaſt unwary and exceptionable Expreſſions about the Trinity, as may be ſeen in <hi>Genebrard de Trin. Fevardentius</hi>'s <hi>Theomachia, Salmero</hi>'s <hi>Diſput. Poſſevin in Atheiſmis,</hi> and others. The Reaſon is plain, they hated them upon other Accounts, and were reſolv<g ref="char:EOLhyphen"/>ed to quarrel with them upon all Occa<g ref="char:EOLhyphen"/>ſions they could find: They bore an ho<g ref="char:EOLhyphen"/>ſtile Mind and inveterate Spirit, and im<g ref="char:EOLhyphen"/>placable Malice againſt them for other Reaſons, and therefore lay at Catch, to
+<pb n="13" facs="tcp:94532:32"/>Accuſe and Expoſe them, tho' never ſo falſly and unjuſtly, and reſolved to per<g ref="char:EOLhyphen"/>ſue the Charge of Hereſie againſt them in all Points where there was the leaſt ſhadow or colour, and eſpecially in ſo tender a point as this of the Trinity, where 'tis ſo eaſie to make it with a little Spite and Malice, and ſo hard to avoid it with the utmoſt Caution, upon ſo Nice and Difficult a Subject. The Learned Friends of the Reformation have ſufficiently cleared and vindicated Mr. <hi>Calvin</hi>'s Orthodoxy in thoſe Points, notwithſtanding ſome few Expreſſions, by which he diſlikes calling the Trinity one God, <hi>&amp;c.</hi> as not ſtrictly Scriptural, <hi>(in Epiſt. ad Polon)</hi> and it would have been looked upon as a very odious and ill Office, to the Service of Popery and Diſhonour of the Reformation, if any Proteſtant had joined with his Popiſh Enemies and Accuſers, and countenan<g ref="char:EOLhyphen"/>ced or maintained the ſame Charge a<g ref="char:EOLhyphen"/>gainſt him. If there were a true Spirit of Chriſtian Charity, Love and Good Will among us, our Differences and
+<pb n="14" facs="tcp:94532:33"/>Diſſentions about the Trinity would quickly be at an end, however high they have been carried of late by ſome among us. Your Lordſhip I know will take Care, with your great Pru<g ref="char:EOLhyphen"/>dence and Temper, to preſerve this a<g ref="char:EOLhyphen"/>mong us at <hi>Weſtminſter:</hi> And may the God of Peace and Love inſpire the Hearts of all Chriſtians, and eſpecially of all Clergy-men, who are of the ſame Faith and the ſame Communion, that they <hi>may keep the Unity of the Spirit in the Bond of Peace, and hold the Myſtery of the Faith in a pure Conſcience.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="treatise">
+            <pb n="15" facs="tcp:94532:33"/>
+            <head>Some Opinions and Differences of the School-men and Romiſh Divines, about <hi>Deus <g ref="char:V">Ʋ</g>nus &amp; Trinus.</hi>
+            </head>
+            <p>DEus genuit Deum qui non eſt Deus Pater, er<g ref="char:EOLhyphen"/>go non eſt tantum unus Deus perſonaliter, quod verum eſt. <hi>Durandus in Sentent.</hi> Lib. <hi>1.</hi> Diſt. <hi>5.</hi> Qu. <hi>2.</hi>
+            </p>
+            <p>Senſit Petrus de Aliaco, in <hi>1 Q. 3.</hi> circa finem, et <hi>Q. 5.</hi> per totum, et ut videtur, <hi>Marſilius</hi> in <hi>1. q. 5. art. 2.</hi> ad <hi>5. Sc.</hi> de rigore Sermonis recte poſſe dici perſonas eſſe tres Deos, et tan<g ref="char:EOLhyphen"/>tum vitari oportere eum modum loquendi propter periculum ne credantur tres Divinitates, <hi>Valent. Diſp. 2. Qu. 13. Punct. 3.</hi>
+            </p>
+            <p>Quúm Deus ponitur reſpectu termini vel prae<g ref="char:EOLhyphen"/>dicati eſſentialis ſupponit pro eſſentiâ, ſed quúm in reſpectu termini vel praedicati notionalis ſup<g ref="char:EOLhyphen"/>ponit pro perſonâ, et hoc intelligitur quùm poni<g ref="char:EOLhyphen"/>tur reſpectu termini preciſè ſupponentis pro ſup<g ref="char:EOLhyphen"/>poſito vel eſſentiâ, et hoc rationabiliter tum propter identitatem divinae naturae et ſuppoſiti, tum etiam propter Haereticos, ne ſi Deus preciſè ſupponeret pro ſuppoſito, multae propofitiones eſſent concedendae quae per aſtutiam Haereticorum ſimplicibus propo<g ref="char:EOLhyphen"/>ſitae,
+<pb n="16" facs="tcp:94532:34"/>eſſent ijs occaſio errandi &amp; credendi plura<g ref="char:EOLhyphen"/>litatem Deorum ac Divinarum Eſſentiarum. <hi>Biel Repertorium,</hi> L. <hi>1.</hi> Diſt. <hi>4.</hi> Qu. <hi>1.</hi>
+            </p>
+            <p>Notandum quòd cum Deus ponitur cum ſigno alietatis, aut importante pluralitatem ſupponit eſ<g ref="char:EOLhyphen"/>ſentialitèr, &amp; hoc ne ſi concederent quod Pater eſt alius Deus à Filio, ſimplices putarent eſſe plu<g ref="char:EOLhyphen"/>res Deos; cavent enim Doctores ne detur occa<g ref="char:EOLhyphen"/>ſio errandi ſimplicibus quo credant eſſe plures, Deos eſſentialiter diſtinctos, quo modo errent idololatrae, &amp; ideo illae negantur Deus genuit Deum, Pater Filius &amp; Spiritus ſanctus ſunt tres Dij, quamvis concedatur quod perſona genuit aliam perſonam divinam. <hi>Ibid.</hi>
+            </p>
+            <p>Catholicè dici poteſt una eſſentia trium perſo<g ref="char:EOLhyphen"/>narum et tres perſonae unius eſſentiae, non autem unus Deus trium perſonarum, vel tres perſonae unius Dei. <hi>Id.</hi> L. <hi>1.</hi> Diſt. <hi>34.</hi>
+            </p>
+            <p>Haec cum Petro Aliaco non ſatisfacerent, (<hi>Sc.</hi> Explicatio ſymboli Athanaſ. <hi>non tres aeterni,</hi> &amp;c. quam <hi>Thom. Aquin. Holcot</hi> &amp; alij dabant) aliam interpretationem indagare coactus eſt; in Symbolo, inquit, cum concedantur tres coaeterni, miror quare ibidem negantur tres aeterni, nec video rationem diverſitatis; poſtea dum quaerit ſitne aliquo ſenſu concedendum tres eſſe Deos, quid his reſponderi velit, indicat, ait Dei nomen aliquando ſumi eſſentialitèr, at<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ita reciprocari cum eſſentiae divinae ſen divinitatis vocabulo, ei<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> eſſe plane <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, aliquando intelligi perſonaliter ſuppone<g ref="char:EOLhyphen"/>re<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> pro divina perſonâ et ſic Deum ge<g ref="char:EOLhyphen"/>nerari à Deo, et Chriſtum Dei eſſe Filium; priore
+<pb n="17" facs="tcp:94532:34"/>deſignatione non credendum eſſe tres Deos, ne Dei eſſentia multiplex exiſtimetur, poſteriore quemmo<g ref="char:EOLhyphen"/>dum iſtae propoſitiones recipiuntur, non tantum eſt una perſona divina vel tres ſunt perſonae divi<g ref="char:EOLhyphen"/>nae quarum quaelibet eſt Deus, ſic agnoſcendas eſſe has non tantum eſt unus Deus, vel plures ſunt Dei, quod tales idem penitus valeant juxta hanc alteram ſignificationem id<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> apparere per nominis rationem at<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> vim. <hi>Aliaco</hi> q. <hi>5.</hi> prim. Sentent. <hi>Genebrard</hi> de Trin. <hi>l. 3. p. 234.</hi>
+            </p>
+            <p>Poſſet etiam dici nomen Deus interdum ſpectare ad perſonam &amp; eo ſenſu eſſe tres Deos, — inter<g ref="char:EOLhyphen"/>dum id<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſaepius ad eſſentiam referri, — tum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> 
+               <g ref="char:V">Ʋ</g>nicus eſt Deus, <hi>Id.</hi> p. <hi>237.</hi>
+            </p>
+            <p>Si mavis tres Deos in tres divinas perſonas poſſis dicere at<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> interpretari, non vocabulum Deus aliquando ſumitur hypoſtaticè ut Deus a Deo, <hi>Id.</hi> L. <hi>2.</hi> p. <hi>155.</hi>
+            </p>
+            <p>Ad eoſdem pertinet, quod adjicio de tribus Dijs, hoc <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, quum Petrus Aliacenſis aſſentientibus Theolo<g ref="char:EOLhyphen"/>gis putet in aliquo ſenſu verum, tamen apud populum magno offendiculo dicitur, inter eruditos nihil ha<g ref="char:EOLhyphen"/>bet offenſae, quibus cognitum eſt Dei vocabulum, non ſemper ſonare divinam eſſentiam, ſed accipi nomen pro perſonâ ut cum dicimus Deus gignit Deum, &amp; Jeſum eſſe Filium Dei, nihil enim aliud intelli<g ref="char:EOLhyphen"/>gunt docti, quam eſſe tres perſonas in quarum unamquam<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> competat Dei vocabulum. Ne<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> prorſus negat Alliacenſis poſſe dici tres omnipotentes ac tres aeternos, &amp; ſi negaret conſequitur tamen ex his quae conceſſit poſſe dici tres Deos, licet non ſimplicitèr, quemadmodum enim juxta Dialecticam
+<pb n="18" facs="tcp:94532:35"/>non eſt abſurdum dicere tres ſapientes uná ſapien tià, tres bonos eadem bonitate, tres omnipotentes eádem omnipotentia<g ref="char:cmbAbbrStroke">̄</g>, tres eſſe ſed eâdem eſſentiâ, tres volentes eâdem voluntate, it a non arbitror impium dicere tres Deos eodem Deitate, non enim minùs ad ſubſtantiam Dei pertinet Deum eſſe quam ſa<g ref="char:EOLhyphen"/>pientem eſſe, verum ut haec non aſſerit Alliacen<g ref="char:EOLhyphen"/>ſis, ita nec ego aſſero in hoc tantum adduxi ut docerem fieri poſſe ut quaedam ſint vera juxta ſen<g ref="char:EOLhyphen"/>ſum aliquem, quae tamen apud imperitos efferri non expediat. <hi>Eraſmus</hi> in Hyperaſpiſt. diatribae contra <hi>Lutherum</hi> de ſervo arbitrio.</p>
+            <p>
+               <hi>However exceptionable the Aſſertions of theſe Men are, yet the Church of</hi> Rome <hi>ne<g ref="char:EOLhyphen"/>ver cenſured them, and the</hi> Socinians <hi>cannot take any advantage againſt them, fince</hi> Socinus<note n="*" place="margin">Tantum abeſt ut qui iſta profitetur (ſc. Chriſtianis duos eſſe Deos, hoc enim objecrat Wiekus) propter id ut Wieko placet, non Chriſtianus ſed Ethnicus ſit appellandus. <hi>So<g ref="char:EOLhyphen"/>cin.</hi> Reſpon. ad <hi>Wiekum.</hi> C. <hi>1.</hi>
+               </note> 
+               <hi>ſays</hi> (<hi>againſt</hi> Wi<g ref="char:EOLhyphen"/>ekus) <hi>that it is ſo far from</hi> Pa<g ref="char:EOLhyphen"/>gan <hi>to worſhip two Gods, that 'tis moſt Chriſtian, and</hi> Smalci<g ref="char:EOLhyphen"/>us <hi>ſays 'tis Jewiſh to believe and worſhip but one God, and</hi> Crel<g ref="char:EOLhyphen"/>lius<note n="†" place="margin">Quaſi aut duos Deos haberemus ſummos, aut Unum babere Deum ſummum, alterum vero ab eo de<g ref="char:EOLhyphen"/>pendentem ei<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſubordinatum ſacris literis ſit adverſum? <hi>Crel.</hi> de uno Deo, <hi>C. 1. S. 2. C. 18.</hi>
+               </note> 
+               <hi>ſays 'tis no way contrary to Scripture to have two Gods, they who are for worſhipping Chriſt, muſt all ſay this, and their Hereſie lyes in making him a God only by Office and not by Nature, they are therefore truly charge<g ref="char:EOLhyphen"/>able with</hi> Polytheiſm <hi>as the</hi> Arriaus <hi>were of old, who worſhip a Creature as God, or any being that has not the true Divine Nature and Eſſence, but they who hold the ſame
+<pb n="19" facs="tcp:94532:35"/>Divinity, the ſame one Eſſence to be in three Perſons, and communicated from the firſt to the two other, as from one</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>and</hi> Principium <hi>can never be charged with Polytheiſm or Tri<g ref="char:EOLhyphen"/>theiſm; all the Tritheiſts who were condemned in late and dark times, holding three Eſſen<g ref="char:EOLhyphen"/>ces and ſo oppoſing the</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>as the</hi> Peratae <hi>in</hi> Theodoret, Philoponus <hi>in</hi> Nicephorus, <hi>and</hi> Pho<g ref="char:EOLhyphen"/>tius: Joachim <hi>in the Lateran Council,</hi> Roſcelin <hi>in the Synod of</hi> Soiſſons, Abaelardus <hi>in the Synod of</hi> Soiſſons, Porretanus <hi>in that of</hi> Rhemes, <hi>but of this elſewhere. I ſhall only inſtance further in the Opinions and Differences of the Scholaſtick and Romiſh Divines about three Eternals, Om<g ref="char:EOLhyphen"/>nipotents,</hi> &amp;c. <hi>and three Subſiſtencies.</hi>
+            </p>
+            <p>Dicimus tres exiſtentes, vel tres ſapientes, aut tres aeternos &amp; increatos ſi adjective ſuman<g ref="char:EOLhyphen"/>tur, ſi vero ſubſtantive ſumantur dicimus unum increatum, immenſum &amp; aeternum, ut <hi>Athanaſius</hi> dicit. <hi>Cajetan</hi> Comment. in <hi>Thom.</hi> Qu. <hi>39.</hi> Art. <hi>3. Athanaſius</hi> ſubſtantivis uſus eſt adje<g ref="char:EOLhyphen"/>ctivè in Symbolo. <hi>Javell.</hi> Expoſit. in <hi>Cajetan.</hi> Ibid.</p>
+            <p>Petavius <hi>explains this otherwiſe againſt theſe and</hi> Thomas Aquinas <hi>too,</hi> — Quem ad finem ver<g ref="char:EOLhyphen"/>ba illa in Symbolo poſita ſunt imprimis ſpectare convenit, haec igitur adverſus Arrianorum Hae<g ref="char:EOLhyphen"/>reſin oppoſita videntur á conditore ſymboli, quae Trinitatem cum tribus componebat perſonis inaequa<g ref="char:EOLhyphen"/>libus et ſubſtantia diverſis quarum ſingulae ſingu<g ref="char:EOLhyphen"/>lis conſtabant ut naturis it a proprietatibus natu<g ref="char:EOLhyphen"/>rae. <hi>Petav.</hi> de Trin. <hi>p. 286.</hi>
+            </p>
+            <p>
+               <pb n="20" facs="tcp:94532:36"/>Molina <hi>had before upon the Principles of</hi> Aquinas, <hi>endeavoured to reconcile the</hi> Atha<g ref="char:EOLhyphen"/>naſian Creed, <hi>about one Omnipotent Eternal, with the Council of</hi> Lateran, <hi>which declared for three Coeternals,</hi> &amp;c. <hi>thus;</hi> Ex conclu<g ref="char:EOLhyphen"/>ſione <hi>D. Thomae</hi> regulâ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> propoſitâ, facile erit intelligore rationem conciliandi quaedam dicta in Symbolo Athanaſij &amp; in Concilio Lateranenſi Cap. Firm. de ſumma Trin. &amp; in fide catholicâ, quae primo aſpectu videntur contraria inter ſe. In ſymbolo-nam<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Athanaſij, de Patre, Filio &amp; Spi<g ref="char:EOLhyphen"/>ritu ſancto dicitur, non tres aeterni in plurali, ſed unus aeternus, ſicut non tres increati nec tres im<g ref="char:EOLhyphen"/>menſi, ſed unus increatus &amp; unus immenſus &amp; infra, non tres omnipotentes ſed unus omnipotens. Cap. vero firm. de eodem Patre, Filio &amp; Spiritu ſancto dicitur in plurali, conſubſtantiales, et co<g ref="char:EOLhyphen"/>equales, et co-omnipotentes, et coeterni, imo in eo<g ref="char:EOLhyphen"/>dem Symbolo Athanaſij, eaedem perſonae etiam di<g ref="char:EOLhyphen"/>cuntur coeternae, eis verbis coeternae ſibi ſunt et coequales; haec, ex dictis, in hunc modum conci<g ref="char:EOLhyphen"/>lianda. Athanaſius in locis primo loco citatis, ſumpſit nomina illa ſubſtantive, (tametſi quae<g ref="char:EOLhyphen"/>dam eorum, quod non ſumantur in terminatione neutrâ, pre ſe ferant formam Adjectivorum) ideo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> negavit dici pluraliter de tribus perſonis. Concilium vero Lateranenſe, idem<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Athanaſius, ubi ſeoundo loco citatur, ſumpſerunt illa alia no<g ref="char:EOLhyphen"/>mina adjectivè eâ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> rationè tribuerunt illa tri<g ref="char:EOLhyphen"/>bus perſonis in numero plurali. <hi>Molina</hi> Com<g ref="char:EOLhyphen"/>ment. in <hi>Thom.</hi> p. <hi>1.</hi> q. <hi>39.</hi> art. <hi>3.</hi> diſp. <hi>1.</hi>
+            </p>
+            <p>Arriba <hi>oppoſes</hi> Molina, <hi>and gives another
+<pb n="21" facs="tcp:94532:36"/>Anſwer to this Difficulty,</hi> Reſpondeo ad diffi<g ref="char:EOLhyphen"/>cultatem, quod concilium Lateranenſe dum affirmat Patrem, Filium &amp; Spiritum ſanctum in plurali numero eſſe conſubſtantiales, coequales &amp; coeter<g ref="char:EOLhyphen"/>nos, &amp; coomnipotentes, loquitur de ipſis ſecundum rationem &amp; habitudinem relativam, quae ratione praedictae particulae defert pluralitatem in ſuppoſitis Exiſtentibus à parte ſubjecti. <hi>Arriba</hi> conciliato<g ref="char:EOLhyphen"/>rium <hi>Lib. 2. diſp. 3. c. 13.</hi>
+            </p>
+            <p>
+               <hi>As to the Divine Subſiſtencies the Diffe<g ref="char:EOLhyphen"/>rences are greater,</hi> Tres ſunt de hâc re Scho<g ref="char:EOLhyphen"/>laſticorum Opiniones, prima unum eſſe ſubſiſtenti<g ref="char:EOLhyphen"/>am eſſentialem ſeu abſolutam, &amp; nullas perſona<g ref="char:EOLhyphen"/>les ſeu relativas, ita <hi>Durandus, Paludanus, Capreolus,</hi> in <hi>3. d. 1.</hi> quibus videtur favere <hi>Thomas</hi> qu. <hi>2.</hi> de poten. a. <hi>1. &amp;</hi> qu. <hi>8.</hi> a. <hi>3,</hi> &amp; <hi>7.</hi> ſecunda tres eſſe ſubſiſtentias relativas &amp; nullam abſolutam ſen eſſentialem ita <hi>Bonaven<g ref="char:EOLhyphen"/>tura</hi> &amp; alij multi, tertia unam eſſe ſubſiſtentiam abſolutam &amp; tres relativas ita <hi>Cajetanus</hi> in <hi>1</hi> p. q. <hi>3.</hi> a. <hi>3. &amp;</hi> in <hi>3</hi> p. q. <hi>2.</hi> a. <hi>2. Becanus</hi> de Trin. <hi>C. 3. Qu. 11.</hi>
+            </p>
+            <p>Singularis quaedam opinio doctiſſimi alioqui The<g ref="char:EOLhyphen"/>ologi <hi>Cajetani,</hi> qui in <hi>1 p. qu. 3. art. 3.</hi> &amp; qu. <hi>39.</hi> art. <hi>4.</hi> exiſtimavit praeter tres ſubſiſtentias relativas, quibus conſtituuntur perſonae, eſſe etiam in Divinis quandam ſubſiſtentiam abſolutam, quae cum eſſentiâ divinâ conſtituat hunce Deum ſubſiſtentem, pro quo ſupponitur ille terminus, Deus acceptus eſſentialiter. <hi>Valent.</hi> diſp. <hi>2.</hi> qu. <hi>13.</hi>
+            </p>
+            <p>Secunda ſententia referri poteſt aſſerens tres
+<pb n="18" facs="tcp:94532:37"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="19" facs="tcp:94532:37"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:94532:38"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="21" facs="tcp:94532:38"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="22" facs="tcp:94532:39"/>perſonas vere &amp; propriè eſſe unum Deum ratione untus ſubſiſtentis communitèr in Deitate, ablatâ vero ſubſiſtentiâ communi non poſſe tres perſonas dici proprie &amp; ſimplicitèr unum Deum: Sumitur ex <hi>Cajetan. 3</hi> p. q. <hi>3.</hi> a <hi>6.</hi> &amp; <hi>Durand.</hi> in <hi>3.</hi> diſt. <hi>1.</hi> q. <hi>3. Richard</hi> art. <hi>1.</hi> qu. <hi>5.</hi> ratio eſt quia poſitâ ſubſiſtentiâ communi, hoc ſubſiſtens in Deitate eſt hic Deus, qui proprie dicitur Pater, Filius &amp; Spiritus Sanctus, ablatâ vero ſubſiſten<g ref="char:EOLhyphen"/>tiâ non poteſt deſignari in concreto unus numero Deus, qui ſit tres perſonoe. <hi>Suarez</hi> de Trin. <hi>L. 4. C. 12.</hi>
+            </p>
+            <p>Non poteſt admitti quod ſit unum ſuppoſi<g ref="char:EOLhyphen"/>tum commune tribus perſonis, quia hoc eſſet con<g ref="char:EOLhyphen"/>fundere tres perſonas in unam perſonam ſeu hy<g ref="char:EOLhyphen"/>poſtaſin, unde merito reprehenditur Gajetanus, quod aliquo modo admiſerit unum ſuppoſitum commune tribus perfonis quanquam non ſimplici<g ref="char:EOLhyphen"/>ter, ſed cum addito id dixerit, ſcilicec ſuppoſi<g ref="char:EOLhyphen"/>tum incompletum vel perſonam incompletam, nam ratio ſuppoſiti repugnat cum communicabilitate divinae ſubſtantiae. <hi>Suarez</hi> diſput metaphys <hi>34.</hi> in Deo poteſt eſſe ſubſiſtentia communicabilis. <hi>Ibid.</hi>
+            </p>
+            <p>Poſſumus intelligere <hi>hunc Deum</hi> eſſe quid com<g ref="char:EOLhyphen"/>mune tribus perſonis non ſolum ratione naturae &amp; perſonalitatis confuſè conceptae, ſed etiam ra<g ref="char:EOLhyphen"/>tione ſubſiſtentiae communis. <hi>Id. T. 1.</hi> Comment. in <hi>3 Thom.</hi> diſp. <hi>11. but of this ſee</hi> Suarez <hi>T. 1. p. 3. diſp. 11. ſect. 3. and</hi> Valentia <hi>a<g ref="char:EOLhyphen"/>gainſt it. 1</hi> p. diſp. <hi>123.</hi> c. <hi>3.</hi>
+            </p>
+            <p>
+               <hi>Whoever reads the School-men, eſpecially
+<pb n="23" facs="tcp:94532:39"/>upon theſe Propoſitions,</hi> Deus creat, Deus gene<g ref="char:EOLhyphen"/>rat, Deus ſpirat, Deus eſt incarnatus, &amp; Hic Deus <hi>will find them very different and perplexed, and yet all agreeing that the word</hi> Deus <hi>muſt be taken ambiguouſly and equivocally, and not in one adequate and univocal ſenſe, but ſometimes as an univerſal and</hi> communis ter<g ref="char:EOLhyphen"/>minus, <hi>ſometimes ſingularly, ſometimes eſſen<g ref="char:EOLhyphen"/>tially, and ſometimes perſonally, ſometimes abſtractly and ſometimes concretely, ſome<g ref="char:EOLhyphen"/>times ſubſtantively and ſometimes adjective<g ref="char:EOLhyphen"/>ly, ſometimes indefinitely and ſometimes pre<g ref="char:EOLhyphen"/>ciſely, ſometimes abſolutely eminently and appropriately, and ſometimes particularly and connotatively. Thoſe who are verſed in them cannot be ignorant of this, and that theſe di<g ref="char:EOLhyphen"/>ſtinctions are neceſſary to account for God's being one and three,</hi> Deus unus &amp; trinus, <hi>and to take off the Contradiction of three Gods and one God in the Doctrine of the Trinity.</hi>
+            </p>
+            <p>
+               <hi>But not to ſwell and enlarge too much this</hi> Farrago <hi>which I have made ſo, not without de<g ref="char:EOLhyphen"/>ſign, like the Philoſophers <hi>Acroamata,</hi> that while it is underſtood by the Wiſe and Learned, it may not be obnoxious to the Ignorant and Cap<g ref="char:EOLhyphen"/>tious</hi>
+               <note n="(a)" place="margin">Carpere &amp; Detrahere vel imperiti poſſunt, doctorum autem eſt &amp; qui labo<g ref="char:EOLhyphen"/>rantium novere ſudorem vel laſſis mauum porrigere, vel er<g ref="char:EOLhyphen"/>rantibus iter oſtendere. <hi>Hieron. in Jon. c. 4.</hi>
+               </note>, <hi>upon the beſt Judgment I can make with my little Parts and Reading, having nothing but Truth and Faith before my Eyes: The School-men have perplexed and entangled themſelves and this Doctrine with Endleſs
+<pb n="24" facs="tcp:94532:40"/>Difficulties, and run it into ſuch Contra<g ref="char:EOLhyphen"/>dictions as themſelves own would be ſo in any thing elſe</hi>
+               <note n="(a)" place="margin">Tenet praeterquam in propoſito in divinis, eo quod nuſquam alibi poſſunt eſſe tres res quarum nulla eſt alia quae tamen ſunt una res numero, ſed tantum in divinis illa reperitur. <hi>Biel</hi> Repertor <hi>L. 1. Diſt. 5. Qu. 1.</hi>
+                  <p>Impoſſibile putant unam rem ſingularim eſſe plures res ficut impoſſibile eſt in creaturis, — &amp; qui<g ref="char:EOLhyphen"/>dem in Creaturis non datur inſtantia, ſed in di<g ref="char:EOLhyphen"/>vinis datur. <hi>Ibid.</hi>
+                  </p>
+                  <p>Diſtinctionem virtualem in eo formaliſſimè conſi<g ref="char:EOLhyphen"/>ſtere, quòd uni realiter indiviſibili à parte rei &amp; in<g ref="char:EOLhyphen"/>dependenter a noſtris conceptibus conveniant praedi<g ref="char:EOLhyphen"/>cata quae alioquin videtur contradictoria, &amp; quidem in creaturis eſſent contradictoria, — in divinis poſſe eandem rem produci &amp; non produci communica<g ref="char:EOLhyphen"/>ri &amp; non communicari quod nulli Creaturae convenit, — in divinis capacitatem majorem in una indivi<g ref="char:EOLhyphen"/>ſibili re ad habenda praedicata contradictoria quam in humanis, — quod ſi rationem a priori hujus diſtinctionis quaeramus, non aliam poſſumus reddere niſi infinitam perfectionem Dei, ratione cujus in ordine ad aliqua praedicata in ſe oppoſita habet ca<g ref="char:EOLhyphen"/>pacitatem ea recipiendi ſimul, perinde ac ſi eſſet mul<g ref="char:EOLhyphen"/>tiplex realiter, — fateor eam aequivalentiam dif<g ref="char:EOLhyphen"/>ficulter intelligi, non eſt tamen propterea neganda, eam enim fides, in cujus obſequium debemus capti<g ref="char:EOLhyphen"/>vare intellectum, manifeſte oſtendit. <hi>Arrlaga</hi> Tractat. de Myſterio Trinit. <hi>Diſp. 42. Sect. 1.</hi>
+                  </p>
+                  <p>Eidem indiviſibili rei reſpectu alterius etiam in<g ref="char:EOLhyphen"/>diviſibilis convenit realiter diſtingui &amp; realiter eſſe idem. <hi>Ibid.</hi>
+                  </p>
+                  <p>Qui non attingunt non aliud non eſſe idem, &amp; non idem non eſſe aliud non poſſunt capere <hi>&amp;c.</hi> Cuſan. <hi>in Crib. Alcor.</hi> L. <hi>2.</hi> C. <hi>8.</hi>
+                  </p>
+               </note>, <hi>(as for the ſame thing to be one and three, the ſame and not the ſame, pro<g ref="char:EOLhyphen"/>duced and not produ<g ref="char:EOLhyphen"/>ced) and have obſcu<g ref="char:EOLhyphen"/>red it with dark and unintelligible (not to ſay falſe) terms, which only amuſe but do not ſatisfie, as real Eſſen<g ref="char:EOLhyphen"/>ces diſtinct from ſin<g ref="char:EOLhyphen"/>gular Beings, and Ex<g ref="char:EOLhyphen"/>iſtence without Sub<g ref="char:EOLhyphen"/>ſiſtence, and modes of Exiſtence, Subſiſtence, and the like Explica<g ref="char:EOLhyphen"/>tions of</hi> Obſcurum per obſcurius, <hi>which are not to be found in any of the Fathers, but only in latter School-men and modern</hi> Metaphy<g ref="char:EOLhyphen"/>ſicks<note n="(b)" place="margin">Tunc igitur exiſtentia naturae ſubſtantialis erit complete terminata quando ſuerit affecta modo exiſtendi per ſe, hic ergo modus complet rationem ſubſiſtentiae creatae, ille ergo habet propriam rationem perſonalitatis ſeu ſuppoſitalitatis. <hi>Suarez</hi> Diſp. Metaphyſ. <hi>34.</hi>
+                  <p>— Peſtquam eſſentia eſt in actu, ſolum in<g ref="char:EOLhyphen"/>diget modo exiſtendi in ſe &amp; per ſe declaratur ex incarnatione Chriſti, nihil enim aliud intelligimus deeſſe humanitati Chriſti, ut non ſubſiſtat ſubſiſten<g ref="char:EOLhyphen"/>tiâ propriâ niſi talem exiſtendi modum quo ſit per ſe &amp; non in alio, nam in ea eſt integra omnis eſ<g ref="char:EOLhyphen"/>ſentia actualis &amp; creata, &amp; conſequenter eſt etiam ſubſtantialis exiſtentia humanae naturae, tamen quia illa exiſtentia ita eſt affecta ut innitatur verbo, a quo ſuſtentatur &amp; pendet, ideo caret illa huma<g ref="char:EOLhyphen"/>nitas modo exiſtendi per ſe, ergo ſolum ex defectu hujusmodi non eſt ſubſiſtens nec perſona creata, ergo talis modus eſt qui babet rationem perſonalitatis creatae.</p>
+                  <p>Id quod ſuppoſitum creatum addit ſupra natu<g ref="char:EOLhyphen"/>ram, diſtinguitur quidem in re ab ipſâ naturâ, non tamen omnino realiter tanquam res a re, ſed mo<g ref="char:EOLhyphen"/>daliter, ut modus rei a re.</p>
+                  <p>Eſt ergo ſubſtantia tranſcendenter ſumpta ut di<g ref="char:EOLhyphen"/>ſtinguitur contra accidens (quia non poteſt ſub<g ref="char:EOLhyphen"/>stantia ab accidente formaliter accipere ſuum com<g ref="char:EOLhyphen"/>plementum) non tamen entitas ſed modus ſubſtan<g ref="char:EOLhyphen"/>tialis, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ita non directe ſed reductive ponitur in praedicamento ſubstantiae quia est aliquid ſubstan<g ref="char:EOLhyphen"/>tiale. <hi>Suarez</hi> Metaphyſ. <hi>Diſp. 34.</hi>
+                  </p>
+               </note>, <hi>that they have thereby given too much advantage to the</hi> Socinians, <hi>who have been prejudiced and hardned by theſe Scho<g ref="char:EOLhyphen"/>laſtick
+<pb n="25" facs="tcp:94532:40"/>Explications a<g ref="char:EOLhyphen"/>gainſt the Doctrine it ſelf, ſo that the plain<g ref="char:EOLhyphen"/>eſt Evidence and De<g ref="char:EOLhyphen"/>monſtration of it from Scripture will not per<g ref="char:EOLhyphen"/>ſwade them to believe, what appears ſo unin<g ref="char:EOLhyphen"/>telligible and unreaſo<g ref="char:EOLhyphen"/>nable as 'tis repreſented to them. The Doctrine ſeems to me, and I hope may to others, even to them at laſt, to be lya<g ref="char:EOLhyphen"/>ble to no ſuch Charge, but to be more plain &amp; eaſie to our Thoughts, (tho' it has many things in it very myſterious and incomprehenſible, both as to the thing and the manner of it) as 'tis propoſed by Revelation, and as 'tis explain<g ref="char:EOLhyphen"/>ed by the beſt Antiquity in this manner: An Original, Eternal Mind, with an Eternal <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or ſubſtantial <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> iſſuing from it, and an Eternal Divine Spirit proceeding from both, for the Ancients do not call them <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which would repreſent all of them rather as original and abſolute, and not relative and derived from another, as two of them are from one</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Principium, Fons, Origo, <hi>&amp;c. in which they chiefly lay the Divine Unity, but always
+<pb n="26" facs="tcp:94532:41"/>aſſert a real Trinity of</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>This is the Explication of the Ancients which they hold with this more plain Scriptural Account of the Trinity, that needs no Explication: One God the Father, with an only begotten Son, (and ſo of the ſame Nature with himſelf) and a Divine Spi<g ref="char:EOLhyphen"/>rit, the Spirit of the Father and the Son (who has Perſonal and Divine Attributes, and Per<g ref="char:EOLhyphen"/>fections plainly attributed to him) and ſo each of the two latter are God in a true and proper ſence, as</hi> habentes Deitatem &amp; Divinâ Naturâ praediti, <hi>but not unori<g ref="char:EOLhyphen"/>ginated, or God in that high ſence, as the Fa<g ref="char:EOLhyphen"/>ther who is</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>and to whom therefore the term of God and one God, is more peculiar<g ref="char:EOLhyphen"/>ly attributed and e<g ref="char:EOLhyphen"/>ven appropriate in the Judgment of the Anti<g ref="char:EOLhyphen"/>ents</hi>
+               <note n="(a)" place="margin">Nam quum id ſit principium caeteris quod ingenitum, Deus ſolus Pater eſt, qui extra originem eſt, ex quo hic eſt qui genitus. <hi>Tertul. ſeu Novatian.</hi> de Trin.
+<p>Deus quidem oſtenditur Filius cui Divinitas tradita &amp; porrecta conſpicitur, &amp; tamen nihilominus unus Deus Pater probatur. <hi>Ibid.</hi>
+                  </p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Athanaſ.</hi> Orat. coutra <hi>Arri<g ref="char:EOLhyphen"/>anos.</hi>
+                  </p>
+                  <p>Deum in verbo ſuo omnia feciſſe, dum enim Deum audio Patrem cogito. <hi>Scotus Erigena</hi> de Di<g ref="char:EOLhyphen"/>viſ. Naturae, <hi>L. 1. P. 61.</hi>
+                  </p>
+                  <p>Habeo libenter<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> accipio Dei nomine Patrem, Principij Filium Dei, Spiritus Dei Spiritum San<g ref="char:EOLhyphen"/>stum ſignificatos. <hi>Ibid.</hi>
+                  </p>
+               </note> 
+               <hi>and Moderns</hi>
+               <note n="(b)" place="margin">Peculiaritèr &amp; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> tribuitur Pa<g ref="char:EOLhyphen"/>tri Dei nomen. <hi>Ravanel.</hi> biblioth. <hi>v.</hi> Deus &amp; Perſona.
+<p>Caeterum Attributionem ſeu Appropriationem ut vocant nominis Deus omnes in Scriptura pie ac pru<g ref="char:EOLhyphen"/>denter exercitati facile animadvertunt. —Appropria<g ref="char:EOLhyphen"/>tio autem omnino in eo ſita eſt, quod vox Deus quae caeteroquin pluribus numero perſonis eſt communis, tanquam unius nempe Patris propria ſumatur. <hi>Biſterfield</hi> contra <hi>Crel.</hi> L. <hi>1. P. 41.</hi>
+                  </p>
+                  <p>Nonne in hoc regno-ſolus Condaeus abſolutè prin<g ref="char:EOLhyphen"/>ceps dicitur, id<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> elogium pro ejus nomine proprio ſaepiſſimè ponitur cum alij. — Exemplum in quo Attributum commune uni tantum ex illis ita rectè tribuitur ut dicere ci ſoli competere. — <hi>Placaeus</hi> contra <hi>Crell. P. 33.</hi>
+                  </p>
+               </note> . <hi>This is the Chri<g ref="char:EOLhyphen"/>ſtian and Catholick Faith, which he that believes with or with<g ref="char:EOLhyphen"/>out, with right or with wrong Explications is undoubtedly Orthodox. The Truth ſeems to lye
+<pb n="27" facs="tcp:94532:41"/>ſo plain, that I wonder any ſhould miſs it, I have picked it up where others have o<g ref="char:EOLhyphen"/>ver looked it: It is ge<g ref="char:EOLunhyphen"/>nerally obſerved to lye between contending Parties. The</hi> Socinians, <hi>eſpecially</hi> Crellius, <hi>inſiſt very much upon the Scriptural Notion of One God the Father: The</hi> Antients <hi>alſo do this, as I have ſhown, but not excluſively to the Divinity of Son and Holy Ghoſt, as the others have done very Erroneouſly and He<g ref="char:EOLhyphen"/>retically. The School men miſt this plain Notion, whilſt they carefully maintain the other, but run into a Labyrinth of Subtle<g ref="char:EOLhyphen"/>ties and Difficulties about One's being Three, and Three One, and weave an artificial cloudy Net-work of thin but dark Cobwebs, ſuch as Real Univerſals, Subſtantial Modes, Subſiſtent Relations, Unſubſiſtent Exiſtencies, Concrete Perſonal Properties,</hi> &amp;c. <hi>that thro' it One Being may look and appear as Three, and yet be One; and to avoid the Objecti<g ref="char:EOLhyphen"/>on of Three Gods, which they need not have been puzled with, if they had hit right upon that of One, according to Scripture and Antiquity, they make three diſtinct Sub<g ref="char:EOLhyphen"/>ſiſtencies, and but one diſtinct Subſiſtent, Three oppoſite Modes and Relations, and but one Subject of them, Three Divine Per<g ref="char:EOLhyphen"/>ſons,
+<pb n="28" facs="tcp:94532:42"/>and but One Divine Being; Three Somewhats, and but One Thing. My hearty Zeal and Concern for the Honour of Chri<g ref="char:EOLhyphen"/>ſtianity, and my deep Regret to ſee its Faith thus Mangled and Perverted, and my Pity to ſee ſo many groping for the Light at Noon-day, and looking ſo carefully for what they have in their hands, has made me ven<g ref="char:EOLhyphen"/>ture to ſhow that which I wonder I did not always ſee, and I hope others may do the ſame.</hi>
+            </p>
+         </div>
+         <div type="treatise">
+            <head>Some Remarks of the Fathers up<g ref="char:EOLhyphen"/>on <hi>Sabellianiſm,</hi> and the wrong and Jewiſh Notion of One God which it held, and from whence it aroſe.</head>
+            <p>
+               <hi>SImplices enim quique ne dixerim imprudentes, &amp; idio<g ref="char:EOLhyphen"/>tes, quae major ſemper credentium pars eſt, quoniam &amp; ipſa regula fidei à pluribus Deis ſaculi ad <g ref="char:V">Ʋ</g>nicum &amp; verum Deum transfert, non intelligentes unicum qui<g ref="char:EOLhyphen"/>dam ſed cum ſuâ oeconomiâ eſſe credendum, expaveſcunt ad oeconomiam, numerum &amp; diſpoſitionem Trinitatis. Di<g ref="char:EOLhyphen"/>viſionem praeſumunt unitatis, quando unitas ex ſemetipſâ derivans Trinitatem, non deſtruatur ab illâ ſed admi<g ref="char:EOLhyphen"/>niſtretur. Itaque duos &amp; tres jam jactitant a nobis praedi<g ref="char:EOLhyphen"/>cari, ſe vero unius Dei <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ultores <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſunm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, quaſi non &amp; unitas irrationaliter collecta Hereſin faciat? &amp; Tri<g ref="char:EOLhyphen"/>nitas
+<pb n="29" facs="tcp:94532:42"/>rationaliter expenſa veritatem conſtituat.</hi> Tertul. <hi>adv.</hi> Praxeam.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Athanaſ. <hi>contra</hi> Sabellij Gre<g ref="char:EOLhyphen"/>gales.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Ibid.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Baſil <hi>Epiſt.</hi> 64. <hi>ad</hi> Neocaeſar.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Ibid.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Ibid.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Id. contra Sabel. &amp; Arr.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Greg. Nazianz. <hi>Orat.</hi> 25.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Id. Orat. 1.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Cyrll Alexandrin. in Theſauro, <hi>p.</hi> 109.</p>
+            <p>
+               <pb n="30" facs="tcp:94532:43"/>It was <hi>Sabellius</hi> his plauſible and twitting Queſtion; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>? Epiphan. Hereſ. 62. Thus <hi>Noetus</hi> gloried in his being an Unitarian, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Id. Hereſ. 57. But the Fa<g ref="char:EOLhyphen"/>ther calls him <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> for thoſe Reaſons, which are a Demonſtration againſt his Opinion of One Being; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Epiphan. Ibid.</p>
+            <p>They brought all the places of Scripture for One God againſt the Real Trinity, as others do ſince, and run into their Error, to avoid Tritheiſm. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Epiph. Ibid.</p>
+            <p>From all which it is plain, and will be plainer to thoſe who read theſe Authors at large, that it is Heretical to believe One God in a <hi>Jewiſh</hi> and <hi>Sabellian</hi> (I may add now in a <hi>Mahometan</hi> and <hi>Socinian</hi>) Senſe, as well as Three Gods in a <hi>Gentile</hi> and <hi>Pagan,</hi> or <hi>Marcionite</hi> and <hi>Valentinian;</hi> and that Chriſtianity is between thoſe Extreams, believing One God the Fa<g ref="char:EOLhyphen"/>ther, a Son, who is God begotten of him, and a Holy Ghoſt, who is God proceeding from both. I con<g ref="char:EOLhyphen"/>clude with a Quotation which the Learned Reader will underſtand the full Purport of: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Greg. Nyſſen. adv. Gre. <hi>T.</hi> 2. <hi>p.</hi> 82.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Advertiſement.</head>
+            <p>
+               <hi>He Reader is deſired to add theſe words which were omitted,</hi> p. 20. <hi>lin. ult.</hi> No way contrary to that of the Church of <hi>England,</hi> I am as well — <hi>Many other Errata's having ſlipt correction, the Reader is deſired to excuſe and amend.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <p>☞ Three Sermons of the Author, in <hi>Octavo,</hi> finiſhed before his Death, will be Publiſhed in a few days.</p>
+            <pb facs="tcp:94532:43"/>
+         </div>
+      </back>
+   </text>
+</TEI>
